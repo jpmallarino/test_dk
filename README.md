@@ -1,4 +1,4 @@
-# Track: SAR
+# Track: BEL
 ## Race: 1
 <table border="1" class="dataframe">
   <thead>
@@ -15,66 +15,48 @@
   <tbody>
     <tr>
       <th>0</th>
-      <td>Withoutdestination</td>
-      <td>0.0</td>
+      <td>Sosua</td>
+      <td>3.148148</td>
+      <td>0.166444</td>
       <td>0.000000</td>
-      <td>0.0</td>
       <td>0.000000</td>
-      <td>77.791522</td>
+      <td>116.762859</td>
     </tr>
     <tr>
       <th>1</th>
-      <td>Perfect Tapatino</td>
-      <td>5.0</td>
-      <td>0.004096</td>
-      <td>5.0</td>
+      <td>Too Much Tip</td>
+      <td>3.725490</td>
+      <td>0.178497</td>
       <td>0.000000</td>
-      <td>47.637171</td>
+      <td>0.000000</td>
+      <td>118.830440</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>Ritzy A. P.</td>
-      <td>10.0</td>
-      <td>0.000000</td>
-      <td>0.0</td>
-      <td>0.000000</td>
-      <td>116.468476</td>
+      <td>Madeleine Must</td>
+      <td>2.000000</td>
+      <td>0.005080</td>
+      <td>3.571429</td>
+      <td>3.975589</td>
+      <td>94.438356</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>Silver Crescent</td>
-      <td>5.0</td>
-      <td>0.000000</td>
-      <td>5.0</td>
-      <td>0.000000</td>
-      <td>64.370972</td>
+      <td>Honey Cake</td>
+      <td>2.156863</td>
+      <td>0.091803</td>
+      <td>6.666667</td>
+      <td>0.000131</td>
+      <td>74.446478</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>Keri's Find</td>
-      <td>0.0</td>
-      <td>0.000000</td>
-      <td>4.0</td>
-      <td>0.000019</td>
-      <td>50.066985</td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <td>Lemonade Thursday</td>
-      <td>0.0</td>
-      <td>0.000000</td>
-      <td>2.5</td>
-      <td>0.000110</td>
-      <td>52.748372</td>
-    </tr>
-    <tr>
-      <th>6</th>
-      <td>Chetzeron</td>
-      <td>0.0</td>
-      <td>0.000000</td>
-      <td>4.0</td>
-      <td>0.000019</td>
-      <td>66.734136</td>
+      <td>Flower Point</td>
+      <td>3.283582</td>
+      <td>0.506924</td>
+      <td>4.545455</td>
+      <td>0.012387</td>
+      <td>121.825772</td>
     </tr>
   </tbody>
 </table>
@@ -93,76 +75,112 @@
   </thead>
   <tbody>
     <tr>
+      <th>5</th>
+      <td>Freedomofthepress</td>
+      <td>3.148148</td>
+      <td>0.166444</td>
+      <td>3.947368</td>
+      <td>4.061697</td>
+      <td>119.191909</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Wicked Happy</td>
+      <td>1.851852</td>
+      <td>0.007357</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>116.196792</td>
+    </tr>
+    <tr>
       <th>7</th>
-      <td>Okie Roughneck</td>
-      <td>1.000000</td>
-      <td>0.001113</td>
+      <td>Salino</td>
+      <td>1.951220</td>
+      <td>0.024078</td>
       <td>0.000000</td>
       <td>0.000000</td>
-      <td>74.220543</td>
+      <td>86.984361</td>
     </tr>
     <tr>
       <th>8</th>
-      <td>Napoleon Complex</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>84.272082</td>
+      <td>Now Yus Cant Leave</td>
+      <td>2.156863</td>
+      <td>0.091803</td>
+      <td>6.153846</td>
+      <td>0.108557</td>
+      <td>98.512269</td>
     </tr>
     <tr>
       <th>9</th>
-      <td>Remembermom</td>
+      <td>Superbloodwolfmoon</td>
+      <td>2.258065</td>
+      <td>0.009319</td>
       <td>0.000000</td>
       <td>0.000000</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>81.011550</td>
+      <td>80.239308</td>
     </tr>
     <tr>
       <th>10</th>
-      <td>Leading West</td>
-      <td>3.809524</td>
-      <td>3.196728</td>
-      <td>4.468085</td>
-      <td>5.100468</td>
-      <td>133.116195</td>
+      <td>Balinese</td>
+      <td>3.283582</td>
+      <td>0.506924</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>96.125995</td>
     </tr>
     <tr>
       <th>11</th>
-      <td>Demuro</td>
-      <td>2.380952</td>
-      <td>0.345521</td>
-      <td>3.030303</td>
-      <td>2.844711</td>
-      <td>96.500383</td>
+      <td>Synonymous</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>92.178497</td>
     </tr>
     <tr>
       <th>12</th>
-      <td>Mach One</td>
-      <td>3.277311</td>
-      <td>2.869000</td>
-      <td>3.571429</td>
-      <td>0.109222</td>
-      <td>121.778013</td>
+      <td>Peacebethejourney</td>
+      <td>3.725490</td>
+      <td>0.178497</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>123.320081</td>
     </tr>
     <tr>
       <th>13</th>
-      <td>Cousin Andrew</td>
-      <td>1.372549</td>
-      <td>0.052397</td>
-      <td>4.259259</td>
-      <td>5.331915</td>
-      <td>141.114174</td>
+      <td>Dearest Kitten</td>
+      <td>2.000000</td>
+      <td>0.005080</td>
+      <td>1.666667</td>
+      <td>0.412565</td>
+      <td>111.591160</td>
     </tr>
     <tr>
       <th>14</th>
-      <td>We Be There</td>
-      <td>3.382353</td>
-      <td>0.701798</td>
-      <td>3.636364</td>
-      <td>0.006231</td>
-      <td>118.065978</td>
+      <td>Exotic Cat</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>5.000000</td>
+      <td>0.000018</td>
+      <td>85.158462</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>Little Nutter</td>
+      <td>2.833333</td>
+      <td>0.285858</td>
+      <td>2.000000</td>
+      <td>0.000018</td>
+      <td>98.915137</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>Control Function</td>
+      <td>3.846154</td>
+      <td>1.561164</td>
+      <td>3.947368</td>
+      <td>4.061697</td>
+      <td>8.726278</td>
     </tr>
   </tbody>
 </table>
@@ -181,148 +199,67 @@
   </thead>
   <tbody>
     <tr>
-      <th>15</th>
-      <td>Sweet Surprise</td>
-      <td>3.536585</td>
-      <td>1.858420</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>3.558883</td>
-    </tr>
-    <tr>
-      <th>16</th>
-      <td>Lockstep</td>
-      <td>2.388060</td>
-      <td>0.400259</td>
-      <td>3.750000</td>
-      <td>0.001385</td>
-      <td>2.570787</td>
-    </tr>
-    <tr>
       <th>17</th>
-      <td>Take the Backroads</td>
-      <td>3.382353</td>
-      <td>0.701798</td>
-      <td>3.636364</td>
-      <td>0.006231</td>
-      <td>157.940978</td>
+      <td>Sir William</td>
+      <td>2.258065</td>
+      <td>0.009319</td>
+      <td>0.000000</td>
+      <td>0.000019</td>
+      <td>0.819344</td>
     </tr>
     <tr>
       <th>18</th>
-      <td>Amore Fire</td>
-      <td>1.372549</td>
-      <td>0.052397</td>
-      <td>1.875000</td>
-      <td>0.031129</td>
-      <td>89.117439</td>
+      <td>Fenway</td>
+      <td>3.283582</td>
+      <td>0.506924</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>110.678388</td>
     </tr>
     <tr>
       <th>19</th>
-      <td>Twenty Two Elle</td>
-      <td>1.833333</td>
-      <td>0.118210</td>
-      <td>2.857143</td>
-      <td>0.007066</td>
-      <td>2.346912</td>
+      <td>The Great Gazoo</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>4.444444</td>
+      <td>0.002644</td>
+      <td>90.635517</td>
     </tr>
     <tr>
       <th>20</th>
-      <td>Next Tuesday</td>
-      <td>3.277311</td>
-      <td>2.869000</td>
-      <td>4.000000</td>
-      <td>0.235391</td>
-      <td>144.209666</td>
+      <td>Stonecoldwarrior</td>
+      <td>3.725490</td>
+      <td>0.178497</td>
+      <td>1.666667</td>
+      <td>0.000011</td>
+      <td>169.923136</td>
     </tr>
     <tr>
       <th>21</th>
-      <td>Leviosa</td>
-      <td>4.453782</td>
-      <td>4.914698</td>
-      <td>3.076923</td>
-      <td>0.021092</td>
-      <td>100.680491</td>
+      <td>Kaden</td>
+      <td>2.812500</td>
+      <td>0.344667</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>50.301134</td>
     </tr>
     <tr>
       <th>22</th>
-      <td>Cee Are Em</td>
-      <td>1.807229</td>
-      <td>0.549243</td>
-      <td>5.000000</td>
-      <td>0.000050</td>
-      <td>2.001514</td>
+      <td>Scherzando</td>
+      <td>1.320755</td>
+      <td>0.045160</td>
+      <td>2.500000</td>
+      <td>0.000148</td>
+      <td>81.026916</td>
     </tr>
     <tr>
       <th>23</th>
-      <td>Conservatve Values</td>
-      <td>0.714286</td>
-      <td>0.000139</td>
-      <td>2.000000</td>
-      <td>0.000857</td>
-      <td>0.371380</td>
-    </tr>
-    <tr>
-      <th>24</th>
-      <td>Pout</td>
-      <td>1.000000</td>
-      <td>0.001113</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>90.053876</td>
-    </tr>
-    <tr>
-      <th>25</th>
-      <td>Love Unlimited</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>0.120511</td>
-    </tr>
-    <tr>
-      <th>26</th>
-      <td>Raw Honey</td>
-      <td>2.380952</td>
-      <td>0.345521</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>2.675745</td>
-    </tr>
-    <tr>
-      <th>27</th>
-      <td>I'm So Sorry</td>
-      <td>3.809524</td>
-      <td>3.196728</td>
-      <td>0.000000</td>
-      <td>0.000052</td>
-      <td>3.715387</td>
-    </tr>
-    <tr>
-      <th>28</th>
-      <td>Office Etiquette</td>
-      <td>1.166667</td>
-      <td>0.074294</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>98.258456</td>
-    </tr>
-    <tr>
-      <th>29</th>
-      <td>Sea Pines</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>2.666667</td>
-      <td>0.026823</td>
-      <td>0.558756</td>
-    </tr>
-    <tr>
-      <th>30</th>
-      <td>Landslid</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>122.355670</td>
+      <td>Forty Comets</td>
+      <td>2.833333</td>
+      <td>0.285858</td>
+      <td>1.250000</td>
+      <td>0.000145</td>
+      <td>93.304239</td>
     </tr>
   </tbody>
 </table>
@@ -341,67 +278,58 @@
   </thead>
   <tbody>
     <tr>
-      <th>31</th>
-      <td>Electric Youth</td>
-      <td>2.142857</td>
-      <td>0.014265</td>
+      <th>24</th>
+      <td>Portfolio Company</td>
+      <td>2.000000</td>
+      <td>0.005080</td>
+      <td>3.947368</td>
+      <td>4.061697</td>
+      <td>196.968283</td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>Midnight Worker</td>
+      <td>3.283582</td>
+      <td>0.506924</td>
+      <td>3.939394</td>
+      <td>4.241930</td>
+      <td>154.852713</td>
+    </tr>
+    <tr>
+      <th>26</th>
+      <td>Annapolis</td>
+      <td>3.846154</td>
+      <td>1.561164</td>
+      <td>3.939394</td>
+      <td>4.241930</td>
+      <td>198.309538</td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>Limited Liability</td>
+      <td>3.148148</td>
+      <td>0.166444</td>
+      <td>4.545455</td>
+      <td>0.012387</td>
+      <td>144.036691</td>
+    </tr>
+    <tr>
+      <th>28</th>
+      <td>Doctor Jeff</td>
+      <td>2.833333</td>
+      <td>0.285858</td>
+      <td>3.703704</td>
+      <td>3.824820</td>
+      <td>147.553828</td>
+    </tr>
+    <tr>
+      <th>29</th>
+      <td>City At Night</td>
+      <td>1.951220</td>
+      <td>0.024078</td>
       <td>1.666667</td>
-      <td>0.003297</td>
-      <td>113.841118</td>
-    </tr>
-    <tr>
-      <th>32</th>
-      <td>Ifihadachance</td>
-      <td>3.277311</td>
-      <td>2.869000</td>
-      <td>1.666667</td>
-      <td>0.000046</td>
-      <td>134.621934</td>
-    </tr>
-    <tr>
-      <th>33</th>
-      <td>Coffee Bar</td>
-      <td>4.453782</td>
-      <td>4.914698</td>
-      <td>3.409091</td>
-      <td>2.929259</td>
-      <td>188.949409</td>
-    </tr>
-    <tr>
-      <th>34</th>
-      <td>Fair Lassie</td>
-      <td>3.382353</td>
-      <td>0.701798</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>127.126045</td>
-    </tr>
-    <tr>
-      <th>35</th>
-      <td>Enough Love</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>149.637354</td>
-    </tr>
-    <tr>
-      <th>36</th>
-      <td>Pendolino</td>
-      <td>1.000000</td>
-      <td>0.001113</td>
-      <td>3.333333</td>
-      <td>0.000023</td>
-      <td>110.216667</td>
-    </tr>
-    <tr>
-      <th>95</th>
-      <td>Easter Chocolate</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>90.166667</td>
+      <td>0.412565</td>
+      <td>198.913882</td>
     </tr>
   </tbody>
 </table>
@@ -420,76 +348,121 @@
   </thead>
   <tbody>
     <tr>
+      <th>30</th>
+      <td>Reghitto</td>
+      <td>1.951220</td>
+      <td>0.024078</td>
+      <td>2.222222</td>
+      <td>0.001512</td>
+      <td>2.233359</td>
+    </tr>
+    <tr>
+      <th>31</th>
+      <td>Tommy Bee</td>
+      <td>2.156863</td>
+      <td>0.091803</td>
+      <td>2.307692</td>
+      <td>0.030225</td>
+      <td>88.670542</td>
+    </tr>
+    <tr>
+      <th>32</th>
+      <td>Dream of a Day</td>
+      <td>2.812500</td>
+      <td>0.344667</td>
+      <td>2.500000</td>
+      <td>0.000027</td>
+      <td>90.236339</td>
+    </tr>
+    <tr>
+      <th>33</th>
+      <td>Flatbush</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>3.703704</td>
+      <td>3.824820</td>
+      <td>2.582858</td>
+    </tr>
+    <tr>
+      <th>34</th>
+      <td>Blue Deja Vu</td>
+      <td>3.725490</td>
+      <td>0.178497</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>92.986748</td>
+    </tr>
+    <tr>
+      <th>35</th>
+      <td>Wicked Fast</td>
+      <td>2.833333</td>
+      <td>0.285858</td>
+      <td>1.428571</td>
+      <td>0.723146</td>
+      <td>3.423194</td>
+    </tr>
+    <tr>
+      <th>36</th>
+      <td>Great Britain</td>
+      <td>2.000000</td>
+      <td>0.005080</td>
+      <td>2.500000</td>
+      <td>0.000061</td>
+      <td>85.701779</td>
+    </tr>
+    <tr>
       <th>37</th>
-      <td>Funwhileitlasted</td>
-      <td>2.388060</td>
-      <td>0.400259</td>
+      <td>Exclusive Order</td>
       <td>0.000000</td>
       <td>0.000000</td>
-      <td>145.196349</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>95.020065</td>
     </tr>
     <tr>
       <th>38</th>
-      <td>Byhubbyhellomoney</td>
-      <td>1.166667</td>
-      <td>0.074294</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>144.429214</td>
+      <td>Regal Empire</td>
+      <td>3.283582</td>
+      <td>0.506924</td>
+      <td>1.666667</td>
+      <td>0.412565</td>
+      <td>86.767329</td>
     </tr>
     <tr>
       <th>39</th>
-      <td>Show Me the Honey</td>
-      <td>1.807229</td>
-      <td>0.549243</td>
-      <td>0.714286</td>
-      <td>0.012425</td>
-      <td>114.029365</td>
+      <td>Looking to Heaven</td>
+      <td>3.846154</td>
+      <td>1.561164</td>
+      <td>3.703704</td>
+      <td>3.824820</td>
+      <td>6.985506</td>
     </tr>
     <tr>
       <th>40</th>
-      <td>Exact Change</td>
+      <td>India Tiger</td>
+      <td>2.258065</td>
+      <td>0.009319</td>
       <td>0.000000</td>
       <td>0.000000</td>
-      <td>2.222222</td>
-      <td>0.000390</td>
-      <td>96.173210</td>
+      <td>84.817180</td>
     </tr>
     <tr>
       <th>41</th>
-      <td>Sport Model</td>
-      <td>4.453782</td>
-      <td>4.914698</td>
-      <td>3.333333</td>
-      <td>4.273893</td>
-      <td>146.792008</td>
+      <td>Fishing for Fun</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>3.703704</td>
+      <td>3.824820</td>
+      <td>167.573064</td>
     </tr>
     <tr>
       <th>42</th>
-      <td>Big Time Lady</td>
-      <td>3.809524</td>
-      <td>3.196728</td>
-      <td>1.071429</td>
-      <td>1.431353</td>
-      <td>109.467214</td>
-    </tr>
-    <tr>
-      <th>43</th>
-      <td>Shaker Shack</td>
-      <td>3.809524</td>
-      <td>3.196728</td>
-      <td>1.428571</td>
-      <td>0.000115</td>
-      <td>174.819176</td>
-    </tr>
-    <tr>
-      <th>44</th>
-      <td>Shesadirtydancer</td>
-      <td>3.277311</td>
-      <td>2.869000</td>
-      <td>1.071429</td>
-      <td>1.431353</td>
-      <td>127.814026</td>
+      <td>Good Skate</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>3.703704</td>
+      <td>3.824820</td>
+      <td>91.573064</td>
     </tr>
   </tbody>
 </table>
@@ -508,67 +481,76 @@
   </thead>
   <tbody>
     <tr>
+      <th>43</th>
+      <td>Amatteroftime</td>
+      <td>2.833333</td>
+      <td>0.285858</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>146.757443</td>
+    </tr>
+    <tr>
+      <th>44</th>
+      <td>Dark Storm</td>
+      <td>2.156863</td>
+      <td>0.091803</td>
+      <td>3.703704</td>
+      <td>3.824820</td>
+      <td>127.580572</td>
+    </tr>
+    <tr>
       <th>45</th>
-      <td>Towering Orbit</td>
-      <td>3.536585</td>
-      <td>1.858420</td>
-      <td>1.428571</td>
-      <td>0.000149</td>
-      <td>83.637955</td>
+      <td>Two Thirty Five</td>
+      <td>3.283582</td>
+      <td>0.506924</td>
+      <td>1.666667</td>
+      <td>0.412565</td>
+      <td>149.739551</td>
     </tr>
     <tr>
       <th>46</th>
-      <td>Vivazano</td>
-      <td>1.833333</td>
-      <td>0.118210</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>79.023351</td>
+      <td>Zoomer</td>
+      <td>2.812500</td>
+      <td>0.344667</td>
+      <td>6.153846</td>
+      <td>0.108557</td>
+      <td>129.811653</td>
     </tr>
     <tr>
       <th>47</th>
-      <td>Empress of War</td>
-      <td>3.382353</td>
-      <td>0.701798</td>
-      <td>5.000000</td>
-      <td>0.000591</td>
-      <td>135.792310</td>
+      <td>Musical America</td>
+      <td>2.000000</td>
+      <td>0.005080</td>
+      <td>3.333333</td>
+      <td>0.000317</td>
+      <td>130.784637</td>
     </tr>
     <tr>
       <th>48</th>
-      <td>Shamalamadingdong</td>
-      <td>1.807229</td>
-      <td>0.549243</td>
-      <td>3.333333</td>
-      <td>4.273893</td>
-      <td>165.343862</td>
+      <td>Twisted Tom</td>
+      <td>3.725490</td>
+      <td>0.178497</td>
+      <td>1.428571</td>
+      <td>0.000146</td>
+      <td>130.075152</td>
     </tr>
     <tr>
       <th>49</th>
-      <td>Tassi</td>
-      <td>2.380952</td>
-      <td>0.345521</td>
-      <td>1.538462</td>
-      <td>0.018787</td>
-      <td>87.883282</td>
+      <td>American Dubai</td>
+      <td>1.951220</td>
+      <td>0.024078</td>
+      <td>5.000000</td>
+      <td>0.000185</td>
+      <td>140.534457</td>
     </tr>
     <tr>
       <th>50</th>
-      <td>I'm Perfect Too</td>
-      <td>1.600000</td>
-      <td>0.058429</td>
-      <td>2.857143</td>
-      <td>0.042834</td>
-      <td>2.128365</td>
-    </tr>
-    <tr>
-      <th>51</th>
-      <td>Fancy Feline</td>
-      <td>3.277311</td>
-      <td>2.869000</td>
-      <td>1.538462</td>
-      <td>0.018787</td>
-      <td>87.110166</td>
+      <td>Glory Road</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>1.578947</td>
+      <td>0.429296</td>
+      <td>128.901080</td>
     </tr>
   </tbody>
 </table>
@@ -587,112 +569,103 @@
   </thead>
   <tbody>
     <tr>
+      <th>51</th>
+      <td>Positive Skew</td>
+      <td>3.333333</td>
+      <td>0.001006</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>102.451717</td>
+    </tr>
+    <tr>
       <th>52</th>
-      <td>Montauk Daddy</td>
-      <td>4.453782</td>
-      <td>4.914698</td>
-      <td>3.529412</td>
-      <td>0.294583</td>
-      <td>151.943752</td>
+      <td>Coworth Park</td>
+      <td>2.000000</td>
+      <td>0.005080</td>
+      <td>3.939394</td>
+      <td>4.241930</td>
+      <td>124.926544</td>
     </tr>
     <tr>
       <th>53</th>
-      <td>Him She Kisses</td>
-      <td>1.166667</td>
-      <td>0.074294</td>
-      <td>5.000000</td>
-      <td>4.961967</td>
-      <td>143.169646</td>
+      <td>Alba's Star</td>
+      <td>3.725490</td>
+      <td>0.178497</td>
+      <td>1.428571</td>
+      <td>0.000146</td>
+      <td>122.578531</td>
     </tr>
     <tr>
       <th>54</th>
-      <td>Convection</td>
-      <td>1.166667</td>
-      <td>0.074294</td>
-      <td>3.636364</td>
-      <td>0.006231</td>
-      <td>166.881320</td>
+      <td>Kitten's Romance</td>
+      <td>2.812500</td>
+      <td>0.344667</td>
+      <td>1.818182</td>
+      <td>0.003063</td>
+      <td>147.776346</td>
     </tr>
     <tr>
       <th>55</th>
-      <td>Wicked Indeed</td>
+      <td>Mirabell Mei</td>
+      <td>2.833333</td>
+      <td>0.285858</td>
       <td>0.000000</td>
       <td>0.000000</td>
-      <td>1.071429</td>
-      <td>1.431353</td>
-      <td>135.219161</td>
+      <td>129.482059</td>
     </tr>
     <tr>
       <th>56</th>
-      <td>Our Destiny</td>
-      <td>3.382353</td>
-      <td>0.701798</td>
-      <td>1.875000</td>
-      <td>0.031129</td>
-      <td>127.254421</td>
+      <td>Princess Fawzia</td>
+      <td>3.148148</td>
+      <td>0.166444</td>
+      <td>4.444444</td>
+      <td>1.072388</td>
+      <td>129.566880</td>
     </tr>
     <tr>
       <th>57</th>
-      <td>Charlie Five O</td>
-      <td>4.453782</td>
-      <td>4.914698</td>
-      <td>5.000000</td>
-      <td>4.961967</td>
-      <td>171.265778</td>
+      <td>More Good Times</td>
+      <td>3.846154</td>
+      <td>1.561164</td>
+      <td>2.666667</td>
+      <td>0.060971</td>
+      <td>125.253707</td>
     </tr>
     <tr>
       <th>58</th>
-      <td>Big Wonder</td>
+      <td>Lady Fatima</td>
+      <td>1.951220</td>
+      <td>0.024078</td>
       <td>0.000000</td>
       <td>0.000000</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>96.306421</td>
+      <td>111.940874</td>
     </tr>
     <tr>
       <th>59</th>
-      <td>Determined Fury</td>
-      <td>1.807229</td>
-      <td>0.549243</td>
-      <td>3.333333</td>
-      <td>4.273893</td>
-      <td>151.885529</td>
+      <td>Giggle Factory</td>
+      <td>1.851852</td>
+      <td>0.007357</td>
+      <td>1.666667</td>
+      <td>0.000036</td>
+      <td>121.769110</td>
     </tr>
     <tr>
       <th>60</th>
-      <td>Wild William</td>
-      <td>1.372549</td>
-      <td>0.052397</td>
-      <td>4.000000</td>
-      <td>0.235391</td>
-      <td>111.610658</td>
+      <td>No Down Days</td>
+      <td>0.384615</td>
+      <td>0.000798</td>
+      <td>0.000000</td>
+      <td>0.000004</td>
+      <td>162.762143</td>
     </tr>
     <tr>
       <th>61</th>
-      <td>Magnificent Chrome</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>1.000000</td>
-      <td>0.000759</td>
-      <td>100.930933</td>
-    </tr>
-    <tr>
-      <th>62</th>
-      <td>Christopher</td>
-      <td>1.833333</td>
-      <td>0.118210</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>150.267968</td>
-    </tr>
-    <tr>
-      <th>63</th>
-      <td>Thing</td>
-      <td>3.277311</td>
-      <td>2.869000</td>
-      <td>3.750000</td>
-      <td>0.001385</td>
-      <td>134.435384</td>
+      <td>Gambling Cat</td>
+      <td>3.283582</td>
+      <td>0.506924</td>
+      <td>1.666667</td>
+      <td>0.412565</td>
+      <td>144.624472</td>
     </tr>
   </tbody>
 </table>
@@ -711,58 +684,67 @@
   </thead>
   <tbody>
     <tr>
+      <th>62</th>
+      <td>Lovely Lucky</td>
+      <td>2.812500</td>
+      <td>0.344667</td>
+      <td>1.666667</td>
+      <td>0.000036</td>
+      <td>131.349060</td>
+    </tr>
+    <tr>
+      <th>63</th>
+      <td>Always Shopping</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>3.939394</td>
+      <td>4.241930</td>
+      <td>144.018001</td>
+    </tr>
+    <tr>
       <th>64</th>
-      <td>Bayerness</td>
-      <td>3.277311</td>
-      <td>2.869000</td>
-      <td>3.333333</td>
-      <td>0.000007</td>
-      <td>160.408500</td>
+      <td>Sister Otoole</td>
+      <td>3.283582</td>
+      <td>0.506924</td>
+      <td>2.500000</td>
+      <td>0.000061</td>
+      <td>166.669614</td>
     </tr>
     <tr>
       <th>65</th>
-      <td>Aunt Kat</td>
-      <td>1.600000</td>
-      <td>0.058429</td>
-      <td>2.500000</td>
-      <td>3.269520</td>
-      <td>176.998889</td>
+      <td>Orglandes</td>
+      <td>3.846154</td>
+      <td>1.561164</td>
+      <td>3.947368</td>
+      <td>4.061697</td>
+      <td>100.726278</td>
     </tr>
     <tr>
       <th>66</th>
-      <td>Bronx Beauty</td>
-      <td>4.453782</td>
-      <td>4.914698</td>
-      <td>5.000000</td>
-      <td>0.000027</td>
-      <td>154.867480</td>
+      <td>Call Me Love</td>
+      <td>2.156863</td>
+      <td>0.091803</td>
+      <td>3.571429</td>
+      <td>3.975589</td>
+      <td>127.668866</td>
     </tr>
     <tr>
       <th>67</th>
-      <td>Casual</td>
-      <td>2.380952</td>
-      <td>0.345521</td>
-      <td>3.030303</td>
-      <td>2.844711</td>
-      <td>165.733716</td>
+      <td>Beautiful Lover</td>
+      <td>2.000000</td>
+      <td>0.005080</td>
+      <td>3.571429</td>
+      <td>3.975589</td>
+      <td>163.313356</td>
     </tr>
     <tr>
       <th>68</th>
-      <td>Honor Way</td>
-      <td>2.388060</td>
-      <td>0.400259</td>
-      <td>1.428571</td>
-      <td>0.000149</td>
-      <td>122.028196</td>
-    </tr>
-    <tr>
-      <th>69</th>
-      <td>Whispering Pines</td>
-      <td>3.809524</td>
-      <td>3.196728</td>
-      <td>4.444444</td>
-      <td>0.003160</td>
-      <td>137.743445</td>
+      <td>My Sister Nat</td>
+      <td>3.148148</td>
+      <td>0.166444</td>
+      <td>3.947368</td>
+      <td>4.061697</td>
+      <td>134.849804</td>
     </tr>
   </tbody>
 </table>
@@ -781,85 +763,85 @@
   </thead>
   <tbody>
     <tr>
+      <th>69</th>
+      <td>Frosty Brew</td>
+      <td>3.725490</td>
+      <td>0.178497</td>
+      <td>4.545455</td>
+      <td>0.012387</td>
+      <td>202.298532</td>
+    </tr>
+    <tr>
       <th>70</th>
-      <td>En Wye Cee</td>
-      <td>3.809524</td>
-      <td>3.196728</td>
-      <td>3.409091</td>
-      <td>2.929259</td>
-      <td>144.419617</td>
+      <td>A Mo Reay</td>
+      <td>2.833333</td>
+      <td>0.285858</td>
+      <td>3.939394</td>
+      <td>4.241930</td>
+      <td>100.127860</td>
     </tr>
     <tr>
       <th>71</th>
-      <td>L'Imperator</td>
-      <td>4.453782</td>
-      <td>4.914698</td>
-      <td>4.259259</td>
-      <td>5.331915</td>
-      <td>64.850726</td>
+      <td>Saucy Lady T</td>
+      <td>3.846154</td>
+      <td>1.561164</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>120.015873</td>
     </tr>
     <tr>
       <th>72</th>
-      <td>Ever Dangerous</td>
-      <td>1.372549</td>
-      <td>0.052397</td>
-      <td>3.333333</td>
-      <td>0.246945</td>
-      <td>139.124832</td>
+      <td>Hot Fudge</td>
+      <td>3.148148</td>
+      <td>0.166444</td>
+      <td>4.444444</td>
+      <td>1.072388</td>
+      <td>149.266880</td>
     </tr>
     <tr>
       <th>73</th>
-      <td>Danny California</td>
+      <td>Jumeirah</td>
+      <td>1.851852</td>
+      <td>0.007357</td>
       <td>0.000000</td>
       <td>0.000000</td>
-      <td>1.071429</td>
-      <td>1.431353</td>
-      <td>118.432495</td>
+      <td>197.434736</td>
     </tr>
     <tr>
       <th>74</th>
-      <td>Burning Bright</td>
-      <td>1.807229</td>
-      <td>0.549243</td>
-      <td>3.333333</td>
-      <td>-0.000017</td>
-      <td>194.574197</td>
+      <td>Echo Zulu</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>5.714286</td>
+      <td>0.001832</td>
+      <td>204.757593</td>
     </tr>
     <tr>
       <th>75</th>
-      <td>Lost in Rome</td>
-      <td>3.809524</td>
-      <td>3.196728</td>
-      <td>2.380952</td>
-      <td>1.797657</td>
-      <td>143.481819</td>
+      <td>Jester Calls Nojoy</td>
+      <td>3.283582</td>
+      <td>0.506924</td>
+      <td>3.939394</td>
+      <td>4.241930</td>
+      <td>205.352713</td>
     </tr>
     <tr>
       <th>76</th>
-      <td>Bodecream</td>
-      <td>3.382353</td>
-      <td>0.701798</td>
-      <td>4.468085</td>
-      <td>5.100468</td>
-      <td>167.574828</td>
+      <td>Gerrymander</td>
+      <td>2.000000</td>
+      <td>0.005080</td>
+      <td>3.947368</td>
+      <td>4.061697</td>
+      <td>200.468283</td>
     </tr>
     <tr>
       <th>77</th>
-      <td>Argonne</td>
-      <td>3.277311</td>
-      <td>2.869000</td>
-      <td>1.538462</td>
-      <td>0.018787</td>
-      <td>126.706320</td>
-    </tr>
-    <tr>
-      <th>78</th>
-      <td>Pretty Good Year</td>
-      <td>2.380952</td>
-      <td>0.345521</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>111.929607</td>
+      <td>Magic Circle</td>
+      <td>2.156863</td>
+      <td>0.091803</td>
+      <td>3.703704</td>
+      <td>3.824820</td>
+      <td>197.698219</td>
     </tr>
   </tbody>
 </table>
@@ -878,148 +860,94 @@
   </thead>
   <tbody>
     <tr>
+      <th>78</th>
+      <td>Power Up Paynter</td>
+      <td>2.833333</td>
+      <td>0.285858</td>
+      <td>4.444444</td>
+      <td>1.072388</td>
+      <td>118.440999</td>
+    </tr>
+    <tr>
       <th>79</th>
-      <td>Come Storming</td>
-      <td>3.536585</td>
-      <td>1.858420</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>137.425208</td>
+      <td>Bronx Bomber</td>
+      <td>2.156863</td>
+      <td>0.091803</td>
+      <td>3.703704</td>
+      <td>3.824820</td>
+      <td>128.449450</td>
     </tr>
     <tr>
       <th>80</th>
-      <td>Be Up</td>
-      <td>3.277311</td>
-      <td>2.869000</td>
-      <td>3.333333</td>
-      <td>-0.000017</td>
-      <td>130.454243</td>
+      <td>Gandy Dancing</td>
+      <td>3.725490</td>
+      <td>0.178497</td>
+      <td>5.000000</td>
+      <td>0.000018</td>
+      <td>141.418000</td>
     </tr>
     <tr>
       <th>81</th>
-      <td>Wicked Amber</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>1.000000</td>
-      <td>0.000759</td>
-      <td>94.967673</td>
+      <td>Saratoga Pal</td>
+      <td>1.320755</td>
+      <td>0.045160</td>
+      <td>2.222222</td>
+      <td>0.001434</td>
+      <td>155.501897</td>
     </tr>
     <tr>
       <th>82</th>
-      <td>Honor Hop</td>
-      <td>2.142857</td>
-      <td>0.014265</td>
-      <td>0.000000</td>
-      <td>0.000052</td>
-      <td>121.323086</td>
+      <td>Judge N Jury</td>
+      <td>3.283582</td>
+      <td>0.506924</td>
+      <td>2.500000</td>
+      <td>0.001096</td>
+      <td>133.892108</td>
     </tr>
     <tr>
       <th>83</th>
-      <td>Kitten by the Sea</td>
-      <td>3.809524</td>
-      <td>3.196728</td>
-      <td>3.409091</td>
-      <td>2.929259</td>
-      <td>178.260886</td>
+      <td>River Dog</td>
+      <td>2.812500</td>
+      <td>0.344667</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>155.301134</td>
     </tr>
     <tr>
       <th>84</th>
-      <td>Theodora Grace</td>
-      <td>1.372549</td>
-      <td>0.052397</td>
-      <td>2.857143</td>
-      <td>0.042834</td>
-      <td>173.351826</td>
+      <td>Steam Engine</td>
+      <td>3.148148</td>
+      <td>0.166444</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>143.219041</td>
     </tr>
     <tr>
       <th>85</th>
-      <td>Mopolka</td>
-      <td>1.304348</td>
-      <td>0.003026</td>
-      <td>5.000000</td>
-      <td>4.961967</td>
-      <td>135.337271</td>
+      <td>Blue Gator</td>
+      <td>3.846154</td>
+      <td>1.561164</td>
+      <td>1.666667</td>
+      <td>0.412565</td>
+      <td>168.024155</td>
     </tr>
     <tr>
       <th>86</th>
-      <td>Evidence Based</td>
-      <td>3.382353</td>
-      <td>0.701798</td>
-      <td>1.875000</td>
-      <td>0.031129</td>
-      <td>115.409183</td>
+      <td>Market Alert</td>
+      <td>0.384615</td>
+      <td>0.000798</td>
+      <td>1.250000</td>
+      <td>0.000145</td>
+      <td>149.917188</td>
     </tr>
     <tr>
       <th>87</th>
-      <td>Rose E Holiday</td>
-      <td>2.388060</td>
-      <td>0.400259</td>
-      <td>2.000000</td>
-      <td>0.000857</td>
-      <td>130.564004</td>
-    </tr>
-    <tr>
-      <th>88</th>
-      <td>Ocean Air</td>
-      <td>4.453782</td>
-      <td>4.914698</td>
+      <td>Just Right</td>
+      <td>1.951220</td>
+      <td>0.024078</td>
       <td>3.333333</td>
-      <td>4.273893</td>
-      <td>163.208674</td>
-    </tr>
-    <tr>
-      <th>89</th>
-      <td>Claddagh's Run</td>
-      <td>1.807229</td>
-      <td>0.549243</td>
-      <td>3.333333</td>
-      <td>0.246945</td>
-      <td>166.871571</td>
-    </tr>
-    <tr>
-      <th>90</th>
-      <td>Hohohoho</td>
-      <td>1.833333</td>
-      <td>0.118210</td>
-      <td>3.750000</td>
-      <td>0.001724</td>
-      <td>141.791061</td>
-    </tr>
-    <tr>
-      <th>91</th>
-      <td>Viburnum</td>
-      <td>3.809524</td>
-      <td>3.196728</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>137.954646</td>
-    </tr>
-    <tr>
-      <th>92</th>
-      <td>Sweet Franny Lu</td>
-      <td>1.372549</td>
-      <td>0.052397</td>
-      <td>3.750000</td>
-      <td>0.001724</td>
-      <td>126.666129</td>
-    </tr>
-    <tr>
-      <th>93</th>
-      <td>Trumpet Lilly</td>
-      <td>3.382353</td>
-      <td>0.701798</td>
-      <td>3.636364</td>
-      <td>0.006231</td>
-      <td>162.024311</td>
-    </tr>
-    <tr>
-      <th>94</th>
-      <td>Kerik</td>
-      <td>4.453782</td>
-      <td>4.914698</td>
-      <td>2.380952</td>
-      <td>1.797657</td>
-      <td>127.841094</td>
+      <td>0.000320</td>
+      <td>144.396237</td>
     </tr>
   </tbody>
 </table>
