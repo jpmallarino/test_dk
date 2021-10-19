@@ -1181,11 +1181,11 @@
       <td>0</td>
       <td>5</td>
       <td>63</td>
-      <td>54</td>
+      <td>107</td>
       <td>5</td>
       <td>0</td>
       <td>6</td>
-      <td>132</td>
+      <td>186</td>
     </tr>
     <tr>
       <td>10</td>
