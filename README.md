@@ -1,5 +1,5 @@
-# Track: BEL / Class: Clm 12500 / Distance: 8.5 / Surface: 0Dirt
-## Race: 1
+# Track: BEL
+## Race: 1 / Class: Clm 12500 / Distance: 8.5 / Surface: 0Dirt
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -46,7 +46,7 @@
     </tr>
   </tbody>
 </table>
-## Race: 2
+## Race: 2 / Class: Md Sp Wt 75k / Distance: 8.5 / Surface: ITurf
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -123,7 +123,7 @@
     </tr>
   </tbody>
 </table>
-## Race: 3
+## Race: 3 / Class: Alw 92000N1X / Distance: 6.5 / Surface: 0Dirt
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -170,7 +170,7 @@
     </tr>
   </tbody>
 </table>
-## Race: 4
+## Race: 4 / Class: Clm 25000 / Distance: 8.0 / Surface: 0Turf
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -232,7 +232,7 @@
     </tr>
   </tbody>
 </table>
-## Race: 5
+## Race: 5 / Class: Md Sp Wt 70k / Distance: 6.5 / Surface: 0Dirt
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -294,7 +294,7 @@
     </tr>
   </tbody>
 </table>
-## Race: 6
+## Race: 6 / Class: OC 80k/N2X / Distance: 9.0 / Surface: ITurf
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -346,7 +346,7 @@
     </tr>
   </tbody>
 </table>
-## Race: 7
+## Race: 7 / Class: Md Sp Wt 90k / Distance: 8.5 / Surface: 0Dirt
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -403,7 +403,7 @@
     </tr>
   </tbody>
 </table>
-## Race: 8
+## Race: 8 / Class: OC 80k/N2X / Distance: 8.5 / Surface: 0Turf
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -465,7 +465,7 @@
     </tr>
   </tbody>
 </table>
-## Race: 9
+## Race: 9 / Class: Alw 80000N1X / Distance: 8.5 / Surface: ITurf
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
