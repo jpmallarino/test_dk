@@ -1,4 +1,4 @@
-# Track: BEL
+# Track: BEL		Date: 2021-10-22
 ## Race: 1 / Class: Md 20000 / Distance: 8.0 / Surface: Dirt
 <table border="1" class="dataframe">
   <thead>
