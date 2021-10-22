@@ -147,21 +147,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>11</td>
-      <td>11</td>
-      <td>Tough Workout</td>
-      <td>Rodriguez Rudy R</td>
-      <td>Saez L</td>
-      <td>0</td>
-      <td>0</td>
-      <td>526</td>
-      <td>72</td>
-      <td>0</td>
-      <td>10</td>
-      <td>10</td>
-      <td>618</td>
-    </tr>
-    <tr>
       <td>12</td>
       <td>12</td>
       <td>Hot Doctor</td>
@@ -234,6 +219,21 @@
       <td>10</td>
       <td>0</td>
       <td>6</td>
+      <td>145</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>11</td>
+      <td>Tough Workout</td>
+      <td>Rodriguez Rudy R</td>
+      <td>Saez L</td>
+      <td>0</td>
+      <td>0</td>
+      <td>53</td>
+      <td>72</td>
+      <td>0</td>
+      <td>10</td>
+      <td>10</td>
       <td>145</td>
     </tr>
     <tr>
@@ -394,21 +394,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>3</td>
-      <td>3</td>
-      <td>Flauto</td>
-      <td>Maker Michael J</td>
-      <td>Saez L</td>
-      <td>0</td>
-      <td>20</td>
-      <td>998</td>
-      <td>43</td>
-      <td>10</td>
-      <td>0</td>
-      <td>10</td>
-      <td>1,081</td>
-    </tr>
-    <tr>
       <td>2</td>
       <td>2</td>
       <td>Single Soul</td>
@@ -482,6 +467,21 @@
       <td>0</td>
       <td>6</td>
       <td>182</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3</td>
+      <td>Flauto</td>
+      <td>Maker Michael J</td>
+      <td>Saez L</td>
+      <td>0</td>
+      <td>20</td>
+      <td>0</td>
+      <td>43</td>
+      <td>10</td>
+      <td>0</td>
+      <td>10</td>
+      <td>83</td>
     </tr>
   </tbody>
 </table>
@@ -708,11 +708,11 @@
       <td>140</td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>1</td>
-      <td>Astral Weeks</td>
-      <td>Stidham Michael</td>
-      <td>Ortiz J L</td>
+      <td>8</td>
+      <td>8</td>
+      <td>Lazzarito</td>
+      <td>Bond Harold James</td>
+      <td>Saez L</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -723,11 +723,11 @@
       <td>10</td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>8</td>
-      <td>Lazzarito</td>
-      <td>Bond Harold James</td>
-      <td>Saez L</td>
+      <td>1</td>
+      <td>1</td>
+      <td>Astral Weeks</td>
+      <td>Stidham Michael</td>
+      <td>Ortiz J L</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -805,6 +805,21 @@
   </thead>
   <tbody>
     <tr>
+      <td>4</td>
+      <td>4</td>
+      <td>Princess Fawzia</td>
+      <td>Rice Linda</td>
+      <td>Velazquez J R</td>
+      <td>10</td>
+      <td>20</td>
+      <td>77</td>
+      <td>103</td>
+      <td>0</td>
+      <td>10</td>
+      <td>0</td>
+      <td>220</td>
+    </tr>
+    <tr>
       <td>2</td>
       <td>2</td>
       <td>Clara Peeters</td>
@@ -833,21 +848,6 @@
       <td>0</td>
       <td>6</td>
       <td>196</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>4</td>
-      <td>Princess Fawzia</td>
-      <td>Rice Linda</td>
-      <td>Velazquez J R</td>
-      <td>10</td>
-      <td>20</td>
-      <td>51</td>
-      <td>103</td>
-      <td>0</td>
-      <td>10</td>
-      <td>0</td>
-      <td>194</td>
     </tr>
     <tr>
       <td>7</td>
@@ -984,12 +984,12 @@
       <td>Rosario J</td>
       <td>10</td>
       <td>0</td>
-      <td>24</td>
+      <td>48</td>
       <td>50</td>
       <td>10</td>
       <td>10</td>
       <td>6</td>
-      <td>110</td>
+      <td>134</td>
     </tr>
     <tr>
       <td>3</td>
@@ -1396,21 +1396,6 @@
       <td>210</td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>12</td>
-      <td>Snow House</td>
-      <td>Cox Brad H</td>
-      <td>Velazquez J R</td>
-      <td>0</td>
-      <td>20</td>
-      <td>81</td>
-      <td>97</td>
-      <td>10</td>
-      <td>0</td>
-      <td>0</td>
-      <td>208</td>
-    </tr>
-    <tr>
       <td>7</td>
       <td>7</td>
       <td>Town of Gold</td>
@@ -1423,6 +1408,21 @@
       <td>5</td>
       <td>0</td>
       <td>6</td>
+      <td>208</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>12</td>
+      <td>Snow House</td>
+      <td>Cox Brad H</td>
+      <td>Velazquez J R</td>
+      <td>0</td>
+      <td>20</td>
+      <td>81</td>
+      <td>97</td>
+      <td>10</td>
+      <td>0</td>
+      <td>0</td>
       <td>208</td>
     </tr>
     <tr>
