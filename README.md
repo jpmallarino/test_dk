@@ -3,7 +3,8 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th>PostPosition</th>
+      <th>Post</th>
+      <th>#</th>
       <th>Horse</th>
       <th>Trainer</th>
       <th>Jockey</th>
@@ -20,6 +21,7 @@
   <tbody>
     <tr>
       <td>2</td>
+      <td>2</td>
       <td>School of Thought</td>
       <td>Brown Chad C</td>
       <td>Ortiz I Jr</td>
@@ -33,6 +35,7 @@
       <td>180</td>
     </tr>
     <tr>
+      <td>7</td>
       <td>7</td>
       <td>Balinese</td>
       <td>Serpe Philip M</td>
@@ -48,6 +51,7 @@
     </tr>
     <tr>
       <td>3</td>
+      <td>3</td>
       <td>Malibu Anthem</td>
       <td>Albertrani Thomas</td>
       <td>Davis D</td>
@@ -61,6 +65,7 @@
       <td>160</td>
     </tr>
     <tr>
+      <td>6</td>
       <td>6</td>
       <td>Black Licorice</td>
       <td>Maker Michael J</td>
@@ -76,6 +81,7 @@
     </tr>
     <tr>
       <td>5</td>
+      <td>5</td>
       <td>Someday Maybe</td>
       <td>Mott William I</td>
       <td>Alvarado J</td>
@@ -90,6 +96,7 @@
     </tr>
     <tr>
       <td>1</td>
+      <td>1</td>
       <td>Grace in Motion</td>
       <td>Davis Edmund D</td>
       <td>Ramos C</td>
@@ -103,6 +110,7 @@
       <td>145</td>
     </tr>
     <tr>
+      <td>4</td>
       <td>4</td>
       <td>Untamed Lady</td>
       <td>Weaver George</td>
@@ -122,7 +130,8 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th>PostPosition</th>
+      <th>Post</th>
+      <th>#</th>
       <th>Horse</th>
       <th>Trainer</th>
       <th>Jockey</th>
@@ -139,6 +148,7 @@
   <tbody>
     <tr>
       <td>11</td>
+      <td>11</td>
       <td>Tough Workout</td>
       <td>Rodriguez Rudy R</td>
       <td>Saez L</td>
@@ -152,6 +162,7 @@
       <td>618</td>
     </tr>
     <tr>
+      <td>12</td>
       <td>12</td>
       <td>Hot Doctor</td>
       <td>Rice Linda</td>
@@ -167,6 +178,7 @@
     </tr>
     <tr>
       <td>9</td>
+      <td>9</td>
       <td>Athenry</td>
       <td>Nevin Michelle</td>
       <td>Carmouche K</td>
@@ -180,6 +192,7 @@
       <td>182</td>
     </tr>
     <tr>
+      <td>7</td>
       <td>7</td>
       <td>Rogue Leader</td>
       <td>Morley Thomas</td>
@@ -195,6 +208,7 @@
     </tr>
     <tr>
       <td>13</td>
+      <td>13</td>
       <td>Flintshire's Rock</td>
       <td>Klesaris Robert P</td>
       <td>Ortiz I Jr</td>
@@ -208,6 +222,7 @@
       <td>164</td>
     </tr>
     <tr>
+      <td>4</td>
       <td>4</td>
       <td>War Novel</td>
       <td>Noda Orlando</td>
@@ -223,6 +238,7 @@
     </tr>
     <tr>
       <td>1</td>
+      <td>1</td>
       <td>Tamburro's Sox</td>
       <td>Donk David</td>
       <td>Ortiz J L</td>
@@ -236,6 +252,7 @@
       <td>144</td>
     </tr>
     <tr>
+      <td>3</td>
       <td>3</td>
       <td>Perfect Banker</td>
       <td>Albertrani Thomas</td>
@@ -251,6 +268,7 @@
     </tr>
     <tr>
       <td>6</td>
+      <td>6</td>
       <td>El Mayor</td>
       <td>Vazquez Juan C</td>
       <td>Silvera R</td>
@@ -264,6 +282,7 @@
       <td>138</td>
     </tr>
     <tr>
+      <td>5</td>
       <td>5</td>
       <td>Chase the Cat</td>
       <td>Sciacca Gary</td>
@@ -279,6 +298,7 @@
     </tr>
     <tr>
       <td>10</td>
+      <td>10</td>
       <td>Majestic Sky</td>
       <td>Kimmel John C</td>
       <td>Vargas J A Jr</td>
@@ -292,6 +312,7 @@
       <td>130</td>
     </tr>
     <tr>
+      <td>8</td>
       <td>8</td>
       <td>Taco Bean</td>
       <td>Kelly Patrick J</td>
@@ -307,6 +328,7 @@
     </tr>
     <tr>
       <td>14</td>
+      <td>14</td>
       <td>Tuesday's Child</td>
       <td>Sciacca Gary</td>
       <td>Ramos C</td>
@@ -321,6 +343,7 @@
     </tr>
     <tr>
       <td>15</td>
+      <td>15</td>
       <td>Top of the Mint</td>
       <td>Hennig Mark</td>
       <td>No Rider</td>
@@ -334,6 +357,7 @@
       <td>20</td>
     </tr>
     <tr>
+      <td>2</td>
       <td>2</td>
       <td>Freudian Analyst</td>
       <td>O'Brien Keith</td>
@@ -353,7 +377,8 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th>PostPosition</th>
+      <th>Post</th>
+      <th>#</th>
       <th>Horse</th>
       <th>Trainer</th>
       <th>Jockey</th>
@@ -370,6 +395,7 @@
   <tbody>
     <tr>
       <td>3</td>
+      <td>3</td>
       <td>Flauto</td>
       <td>Maker Michael J</td>
       <td>Saez L</td>
@@ -383,6 +409,7 @@
       <td>1,081</td>
     </tr>
     <tr>
+      <td>2</td>
       <td>2</td>
       <td>Single Soul</td>
       <td>Motion H Graham</td>
@@ -398,6 +425,7 @@
     </tr>
     <tr>
       <td>5</td>
+      <td>5</td>
       <td>L'Indiscret</td>
       <td>Englehart Jeremiah C</td>
       <td>Davis D</td>
@@ -411,6 +439,7 @@
       <td>204</td>
     </tr>
     <tr>
+      <td>4</td>
       <td>4</td>
       <td>Made In Italy</td>
       <td>Motion H Graham</td>
@@ -426,6 +455,7 @@
     </tr>
     <tr>
       <td>6</td>
+      <td>6</td>
       <td>Dancingwthdaffodls</td>
       <td>Jones Eduardo E</td>
       <td>Diaz H R Jr</td>
@@ -439,6 +469,7 @@
       <td>189</td>
     </tr>
     <tr>
+      <td>1</td>
       <td>1</td>
       <td>Second Row Center</td>
       <td>Kobiskie Dane</td>
@@ -458,7 +489,8 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th>PostPosition</th>
+      <th>Post</th>
+      <th>#</th>
       <th>Horse</th>
       <th>Trainer</th>
       <th>Jockey</th>
@@ -475,6 +507,7 @@
   <tbody>
     <tr>
       <td>1</td>
+      <td>1</td>
       <td>Flat Out Beautiful</td>
       <td>Atras Rob</td>
       <td>Franco M</td>
@@ -488,6 +521,7 @@
       <td>211</td>
     </tr>
     <tr>
+      <td>7</td>
       <td>7</td>
       <td>Ragtime Blues</td>
       <td>Terranova John P II</td>
@@ -503,6 +537,7 @@
     </tr>
     <tr>
       <td>5</td>
+      <td>5</td>
       <td>Lost in Rome</td>
       <td>Noda Orlando</td>
       <td>Ortiz I Jr</td>
@@ -516,6 +551,7 @@
       <td>205</td>
     </tr>
     <tr>
+      <td>6</td>
       <td>6</td>
       <td>Grumps Little Tots</td>
       <td>Broberg Karl</td>
@@ -531,6 +567,7 @@
     </tr>
     <tr>
       <td>2</td>
+      <td>2</td>
       <td>Villainous</td>
       <td>Kantarmaci Mertkan</td>
       <td>Carmouche K</td>
@@ -545,6 +582,7 @@
     </tr>
     <tr>
       <td>3</td>
+      <td>3</td>
       <td>Liveyourbeastlife</td>
       <td>Abreu Jorge R</td>
       <td>Alvarado J</td>
@@ -558,6 +596,7 @@
       <td>182</td>
     </tr>
     <tr>
+      <td>4</td>
       <td>4</td>
       <td>Mexican Wonder Boy</td>
       <td>Gargan Danny</td>
@@ -577,7 +616,8 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th>PostPosition</th>
+      <th>Post</th>
+      <th>#</th>
       <th>Horse</th>
       <th>Trainer</th>
       <th>Jockey</th>
@@ -594,6 +634,7 @@
   <tbody>
     <tr>
       <td>9</td>
+      <td>9</td>
       <td>Asymmetric</td>
       <td>Brown Chad C</td>
       <td>Castellano J J</td>
@@ -607,6 +648,7 @@
       <td>211</td>
     </tr>
     <tr>
+      <td>5</td>
       <td>5</td>
       <td>Devious Banker</td>
       <td>Johnson Cleveland</td>
@@ -622,6 +664,7 @@
     </tr>
     <tr>
       <td>2</td>
+      <td>2</td>
       <td>My Last Mission</td>
       <td>Vazquez Juan C</td>
       <td>Lezcano J</td>
@@ -635,6 +678,7 @@
       <td>168</td>
     </tr>
     <tr>
+      <td>4</td>
       <td>4</td>
       <td>Kenner</td>
       <td>Ness Jamie</td>
@@ -650,6 +694,7 @@
     </tr>
     <tr>
       <td>7</td>
+      <td>7</td>
       <td>Pursuit of Justice</td>
       <td>Donk David</td>
       <td>Davis D</td>
@@ -663,6 +708,7 @@
       <td>140</td>
     </tr>
     <tr>
+      <td>1</td>
       <td>1</td>
       <td>Astral Weeks</td>
       <td>Stidham Michael</td>
@@ -678,6 +724,7 @@
     </tr>
     <tr>
       <td>8</td>
+      <td>8</td>
       <td>Lazzarito</td>
       <td>Bond Harold James</td>
       <td>Saez L</td>
@@ -691,6 +738,7 @@
       <td>10</td>
     </tr>
     <tr>
+      <td>10</td>
       <td>10</td>
       <td>Kaz Sugar Bank</td>
       <td>Synnefias Dimitrios</td>
@@ -706,6 +754,7 @@
     </tr>
     <tr>
       <td>6</td>
+      <td>6</td>
       <td>Curlin's Wisdom</td>
       <td>Mott William I</td>
       <td>Alvarado J</td>
@@ -719,6 +768,7 @@
       <td>0</td>
     </tr>
     <tr>
+      <td>3</td>
       <td>3</td>
       <td>Catching Cupid</td>
       <td>Baker Charlton</td>
@@ -738,7 +788,8 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th>PostPosition</th>
+      <th>Post</th>
+      <th>#</th>
       <th>Horse</th>
       <th>Trainer</th>
       <th>Jockey</th>
@@ -754,20 +805,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>4</td>
-      <td>Princess Fawzia</td>
-      <td>Rice Linda</td>
-      <td>Velazquez J R</td>
-      <td>10</td>
-      <td>20</td>
-      <td>77</td>
-      <td>103</td>
-      <td>0</td>
-      <td>10</td>
-      <td>0</td>
-      <td>220</td>
-    </tr>
-    <tr>
+      <td>2</td>
       <td>2</td>
       <td>Clara Peeters</td>
       <td>Cox Brad H</td>
@@ -783,6 +821,7 @@
     </tr>
     <tr>
       <td>6</td>
+      <td>6</td>
       <td>My Sweet Wife</td>
       <td>Abreu Jorge R</td>
       <td>Castellano J J</td>
@@ -796,6 +835,22 @@
       <td>196</td>
     </tr>
     <tr>
+      <td>4</td>
+      <td>4</td>
+      <td>Princess Fawzia</td>
+      <td>Rice Linda</td>
+      <td>Velazquez J R</td>
+      <td>10</td>
+      <td>20</td>
+      <td>51</td>
+      <td>103</td>
+      <td>0</td>
+      <td>10</td>
+      <td>0</td>
+      <td>194</td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td>7</td>
       <td>Tiple</td>
       <td>Serpe Philip M</td>
@@ -811,6 +866,7 @@
     </tr>
     <tr>
       <td>1</td>
+      <td>1</td>
       <td>Sailingintothewind</td>
       <td>Russell Brittany T</td>
       <td>Carmouche K</td>
@@ -825,6 +881,7 @@
     </tr>
     <tr>
       <td>3</td>
+      <td>3</td>
       <td>So Gracious</td>
       <td>Russell Brittany T</td>
       <td>Davis D</td>
@@ -838,6 +895,7 @@
       <td>185</td>
     </tr>
     <tr>
+      <td>5</td>
       <td>5</td>
       <td>Publication</td>
       <td>Brown Chad C</td>
@@ -857,7 +915,8 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th>PostPosition</th>
+      <th>Post</th>
+      <th>#</th>
       <th>Horse</th>
       <th>Trainer</th>
       <th>Jockey</th>
@@ -874,6 +933,7 @@
   <tbody>
     <tr>
       <td>8</td>
+      <td>8</td>
       <td>Handbelle</td>
       <td>Mott William I</td>
       <td>Alvarado J</td>
@@ -887,6 +947,7 @@
       <td>165</td>
     </tr>
     <tr>
+      <td>2</td>
       <td>2</td>
       <td>Into Happiness</td>
       <td>Nevin Michelle</td>
@@ -902,6 +963,7 @@
     </tr>
     <tr>
       <td>6</td>
+      <td>6</td>
       <td>Chasing Artemis</td>
       <td>Hennig Mark</td>
       <td>Davis D</td>
@@ -916,19 +978,21 @@
     </tr>
     <tr>
       <td>1</td>
+      <td>1</td>
       <td>Saffron Moon</td>
       <td>Brown Chad C</td>
       <td>Rosario J</td>
       <td>10</td>
       <td>0</td>
-      <td>48</td>
+      <td>24</td>
       <td>50</td>
       <td>10</td>
       <td>10</td>
       <td>6</td>
-      <td>134</td>
+      <td>110</td>
     </tr>
     <tr>
+      <td>3</td>
       <td>3</td>
       <td>Make a Wish</td>
       <td>Pletcher Todd A</td>
@@ -944,6 +1008,7 @@
     </tr>
     <tr>
       <td>7</td>
+      <td>7</td>
       <td>Morning in America</td>
       <td>Nevin Michelle</td>
       <td>Carmouche K</td>
@@ -958,6 +1023,7 @@
     </tr>
     <tr>
       <td>5</td>
+      <td>5</td>
       <td>Toosweettobesour</td>
       <td>Begg James B</td>
       <td>Saez L</td>
@@ -971,6 +1037,7 @@
       <td>10</td>
     </tr>
     <tr>
+      <td>4</td>
       <td>4</td>
       <td>Nostalgic</td>
       <td>Mott William I</td>
@@ -990,7 +1057,8 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th>PostPosition</th>
+      <th>Post</th>
+      <th>#</th>
       <th>Horse</th>
       <th>Trainer</th>
       <th>Jockey</th>
@@ -1007,6 +1075,7 @@
   <tbody>
     <tr>
       <td>12</td>
+      <td>12</td>
       <td>O'Gotten Girl</td>
       <td>Pletcher Todd A</td>
       <td>Saez L</td>
@@ -1020,6 +1089,7 @@
       <td>223</td>
     </tr>
     <tr>
+      <td>8</td>
       <td>8</td>
       <td>Screamin' By</td>
       <td>Donk David</td>
@@ -1035,6 +1105,7 @@
     </tr>
     <tr>
       <td>4</td>
+      <td>4</td>
       <td>Stolen Holiday</td>
       <td>McGaughey III Claude R</td>
       <td>Castellano J J</td>
@@ -1048,6 +1119,7 @@
       <td>205</td>
     </tr>
     <tr>
+      <td>6</td>
       <td>6</td>
       <td>Tuscan Queen</td>
       <td>Kimmel John C</td>
@@ -1063,6 +1135,7 @@
     </tr>
     <tr>
       <td>13</td>
+      <td>13</td>
       <td>Violent Point</td>
       <td>Lucas Bonnie</td>
       <td>Saez L</td>
@@ -1076,6 +1149,7 @@
       <td>196</td>
     </tr>
     <tr>
+      <td>7</td>
       <td>7</td>
       <td>Harper's in Charge</td>
       <td>Clement Christophe</td>
@@ -1091,6 +1165,7 @@
     </tr>
     <tr>
       <td>1</td>
+      <td>1</td>
       <td>Jades Gelly</td>
       <td>Broberg Karl</td>
       <td>Franco M</td>
@@ -1104,6 +1179,7 @@
       <td>192</td>
     </tr>
     <tr>
+      <td>9</td>
       <td>9</td>
       <td>Sussex Garden</td>
       <td>Delacour Arnaud</td>
@@ -1119,6 +1195,7 @@
     </tr>
     <tr>
       <td>5</td>
+      <td>5</td>
       <td>Lilly Simone</td>
       <td>Donk David</td>
       <td>Velazquez J R</td>
@@ -1132,6 +1209,7 @@
       <td>188</td>
     </tr>
     <tr>
+      <td>10</td>
       <td>10</td>
       <td>Bravo Regina</td>
       <td>Vazquez Juan C</td>
@@ -1147,6 +1225,7 @@
     </tr>
     <tr>
       <td>11</td>
+      <td>11</td>
       <td>She's a Black Belt</td>
       <td>Kantarmaci Mertkan</td>
       <td>Vargas J A Jr</td>
@@ -1161,6 +1240,7 @@
     </tr>
     <tr>
       <td>3</td>
+      <td>3</td>
       <td>Ruvies in Time</td>
       <td>Schosberg Richard</td>
       <td>No Rider</td>
@@ -1174,6 +1254,7 @@
       <td>166</td>
     </tr>
     <tr>
+      <td>2</td>
       <td>2</td>
       <td>Abuse of Power</td>
       <td>Antonacci Philip</td>
@@ -1193,7 +1274,8 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th>PostPosition</th>
+      <th>Post</th>
+      <th>#</th>
       <th>Horse</th>
       <th>Trainer</th>
       <th>Jockey</th>
@@ -1210,6 +1292,7 @@
   <tbody>
     <tr>
       <td>2</td>
+      <td>2</td>
       <td>Ocala Dream</td>
       <td>Morley Thomas</td>
       <td>Davis D</td>
@@ -1223,6 +1306,7 @@
       <td>229</td>
     </tr>
     <tr>
+      <td>5</td>
       <td>5</td>
       <td>Easy Time</td>
       <td>Casse Mark</td>
@@ -1238,6 +1322,7 @@
     </tr>
     <tr>
       <td>3</td>
+      <td>3</td>
       <td>Smokin' Jay</td>
       <td>Danner Kelsey</td>
       <td>Ortiz J L</td>
@@ -1251,6 +1336,7 @@
       <td>221</td>
     </tr>
     <tr>
+      <td>11</td>
       <td>11</td>
       <td>Kawhi Me a River</td>
       <td>Terranova John P II</td>
@@ -1266,6 +1352,7 @@
     </tr>
     <tr>
       <td>1</td>
+      <td>1</td>
       <td>Crowded Trade</td>
       <td>Brown Chad C</td>
       <td>Rosario J</td>
@@ -1279,6 +1366,7 @@
       <td>216</td>
     </tr>
     <tr>
+      <td>6</td>
       <td>6</td>
       <td>Arzak</td>
       <td>Trombetta Michael J</td>
@@ -1294,6 +1382,7 @@
     </tr>
     <tr>
       <td>10</td>
+      <td>10</td>
       <td>Rustler</td>
       <td>Kobiskie Dane</td>
       <td>Carmouche K</td>
@@ -1307,6 +1396,7 @@
       <td>210</td>
     </tr>
     <tr>
+      <td>12</td>
       <td>12</td>
       <td>Snow House</td>
       <td>Cox Brad H</td>
@@ -1322,6 +1412,7 @@
     </tr>
     <tr>
       <td>7</td>
+      <td>7</td>
       <td>Town of Gold</td>
       <td>Duarte Jorge Jr</td>
       <td>Castellano J J</td>
@@ -1335,6 +1426,7 @@
       <td>208</td>
     </tr>
     <tr>
+      <td>4</td>
       <td>4</td>
       <td>Indian Lake</td>
       <td>Ness Jamie</td>
@@ -1350,6 +1442,7 @@
     </tr>
     <tr>
       <td>8</td>
+      <td>8</td>
       <td>Wolfie's Dynaghost</td>
       <td>Albertrani Thomas</td>
       <td>Ortiz I Jr</td>
@@ -1363,6 +1456,7 @@
       <td>203</td>
     </tr>
     <tr>
+      <td>9</td>
       <td>9</td>
       <td>Resist the Devil</td>
       <td>Rice Kevin</td>
@@ -1382,7 +1476,8 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th>PostPosition</th>
+      <th>Post</th>
+      <th>#</th>
       <th>Horse</th>
       <th>Trainer</th>
       <th>Jockey</th>
@@ -1399,6 +1494,7 @@
   <tbody>
     <tr>
       <td>4</td>
+      <td>4</td>
       <td>Gimmedamoney</td>
       <td>Maker Michael J</td>
       <td>Alvarado J</td>
@@ -1412,6 +1508,7 @@
       <td>172</td>
     </tr>
     <tr>
+      <td>8</td>
       <td>8</td>
       <td>Hot Rod Rumble</td>
       <td>Asmussen Steven M</td>
@@ -1427,6 +1524,7 @@
     </tr>
     <tr>
       <td>5</td>
+      <td>5</td>
       <td>Something Majestic</td>
       <td>Klesaris Robert P</td>
       <td>Castellano J J</td>
@@ -1440,6 +1538,7 @@
       <td>150</td>
     </tr>
     <tr>
+      <td>3</td>
       <td>3</td>
       <td>Bali's Shade</td>
       <td>Rodriguez Rudy R</td>
@@ -1455,6 +1554,7 @@
     </tr>
     <tr>
       <td>7</td>
+      <td>7</td>
       <td>Our Son Jake</td>
       <td>Miceli Michael</td>
       <td>Davis D</td>
@@ -1468,6 +1568,7 @@
       <td>16</td>
     </tr>
     <tr>
+      <td>9</td>
       <td>9</td>
       <td>Amedeus Music</td>
       <td>Ryerson James T</td>
@@ -1483,6 +1584,7 @@
     </tr>
     <tr>
       <td>11</td>
+      <td>11</td>
       <td>Call My Banker</td>
       <td>Casse Mark</td>
       <td>Carmouche K</td>
@@ -1496,6 +1598,7 @@
       <td>6</td>
     </tr>
     <tr>
+      <td>1</td>
       <td>1</td>
       <td>Vibe Setter</td>
       <td>Baker Charlton</td>
@@ -1511,6 +1614,7 @@
     </tr>
     <tr>
       <td>6</td>
+      <td>6</td>
       <td>Almond Cider</td>
       <td>Ferraro James W</td>
       <td>Vargas J A Jr</td>
@@ -1525,6 +1629,7 @@
     </tr>
     <tr>
       <td>10</td>
+      <td>10</td>
       <td>Always Charming</td>
       <td>Johnson Cleveland</td>
       <td>Samuel J L</td>
@@ -1538,6 +1643,7 @@
       <td>0</td>
     </tr>
     <tr>
+      <td>2</td>
       <td>2</td>
       <td>Clash A. J.</td>
       <td>Jones Eduardo E</td>
