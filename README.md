@@ -1,291 +1,5 @@
-# Track: GP		Date: 2022-04-08
-## Race: 1 / Class: Moc 40000C / Distance: 5.0 / Surface: Dirt
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Post</th>
-      <th>#</th>
-      <th>Horse</th>
-      <th>Trainer</th>
-      <th>Jockey</th>
-      <th>E</th>
-      <th>ITM</th>
-      <th>B</th>
-      <th>S</th>
-      <th>C</th>
-      <th>T</th>
-      <th>J</th>
-      <th>FinalScore</th>
-      <th>NEW FinalScore</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>4</td>
-      <td>4</td>
-      <td>Adios Gary</td>
-      <td>Orseno Joseph</td>
-      <td>Alvarado J</td>
-      <td>10</td>
-      <td>0</td>
-      <td>73</td>
-      <td>96</td>
-      <td>10</td>
-      <td>0</td>
-      <td>0</td>
-      <td>189</td>
-      <td>199</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>2</td>
-      <td>Awesome Crusader</td>
-      <td>Nicks Ralph E</td>
-      <td>Gonzalez E</td>
-      <td>10</td>
-      <td>10</td>
-      <td>53</td>
-      <td>93</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>166</td>
-      <td>176</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>3</td>
-      <td>The Mar</td>
-      <td>Nunez Eduardo</td>
-      <td>Rios J M</td>
-      <td>10</td>
-      <td>0</td>
-      <td>51</td>
-      <td>87</td>
-      <td>10</td>
-      <td>0</td>
-      <td>0</td>
-      <td>158</td>
-      <td>168</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>5</td>
-      <td>Equuleus</td>
-      <td>Sweezey J Kent</td>
-      <td>Vasquez M A</td>
-      <td>10</td>
-      <td>0</td>
-      <td>47</td>
-      <td>85</td>
-      <td>10</td>
-      <td>0</td>
-      <td>0</td>
-      <td>152</td>
-      <td>162</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>7</td>
-      <td>Straight Time</td>
-      <td>Trombetta Michael J</td>
-      <td>Meneses M</td>
-      <td>0</td>
-      <td>0</td>
-      <td>45</td>
-      <td>83</td>
-      <td>10</td>
-      <td>0</td>
-      <td>0</td>
-      <td>138</td>
-      <td>141</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>8</td>
-      <td>Regimental Command</td>
-      <td>Abreu Fernando</td>
-      <td>Vasquez W</td>
-      <td>0</td>
-      <td>0</td>
-      <td>48</td>
-      <td>90</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>138</td>
-      <td>138</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>6</td>
-      <td>Travelingbluesman</td>
-      <td>Lanum Crystal</td>
-      <td>Calles F</td>
-      <td>0</td>
-      <td>0</td>
-      <td>37</td>
-      <td>84</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>121</td>
-      <td>128</td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>1</td>
-      <td>Trappe the Wind</td>
-      <td>Arias Juan D</td>
-      <td>Morelos J E</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>10</td>
-    </tr>
-  </tbody>
-</table>
-## Race: 2 / Class: Clm 6250B / Distance: 8.0 / Surface: Dirt
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Post</th>
-      <th>#</th>
-      <th>Horse</th>
-      <th>Trainer</th>
-      <th>Jockey</th>
-      <th>E</th>
-      <th>ITM</th>
-      <th>B</th>
-      <th>S</th>
-      <th>C</th>
-      <th>T</th>
-      <th>J</th>
-      <th>FinalScore</th>
-      <th>NEW FinalScore</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>3</td>
-      <td>3</td>
-      <td>King Cairo</td>
-      <td>Delgado Jorge</td>
-      <td>Alvarado J</td>
-      <td>10</td>
-      <td>0</td>
-      <td>61</td>
-      <td>94</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>165</td>
-      <td>175</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>6</td>
-      <td>Gods Promise</td>
-      <td>Sobarzo Pedro J</td>
-      <td>Lebron V</td>
-      <td>10</td>
-      <td>10</td>
-      <td>59</td>
-      <td>89</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>168</td>
-      <td>175</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>2</td>
-      <td>Prospect Project</td>
-      <td>Duco Luis</td>
-      <td>Vasquez W</td>
-      <td>0</td>
-      <td>0</td>
-      <td>56</td>
-      <td>90</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>147</td>
-      <td>157</td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>1</td>
-      <td>Hierro</td>
-      <td>Figueroa Cesar J</td>
-      <td>Gonzalez E</td>
-      <td>10</td>
-      <td>5</td>
-      <td>49</td>
-      <td>82</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>146</td>
-      <td>156</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>5</td>
-      <td>Beinfun</td>
-      <td>Mongeon Kathy P</td>
-      <td>Morrison A</td>
-      <td>0</td>
-      <td>0</td>
-      <td>52</td>
-      <td>92</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>144</td>
-      <td>153</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>4</td>
-      <td>Big City Red</td>
-      <td>Silvestri Richard D</td>
-      <td>Perez E</td>
-      <td>10</td>
-      <td>0</td>
-      <td>44</td>
-      <td>86</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>141</td>
-      <td>151</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>7</td>
-      <td>Churchills Victory</td>
-      <td>Alter Happy</td>
-      <td>Rios J M</td>
-      <td>0</td>
-      <td>5</td>
-      <td>60</td>
-      <td>67</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>132</td>
-      <td>135</td>
-    </tr>
-  </tbody>
-</table>
-## Race: 3 / Class: Md 35000 / Distance: 5.0 / Surface: Dirt
+# Track: AQU		Date: 2022-04-09
+## Race: 1 / Class: Md Sp Wt 80k / Distance: 6.0 / Surface: Turf
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -308,1053 +22,1897 @@
   <tbody>
     <tr>
       <td>6</td>
-      <td>6</td>
-      <td>Perfect Provision</td>
-      <td>Joseph Saffie A Jr</td>
-      <td>Alvarado J</td>
-      <td>10</td>
-      <td>5</td>
-      <td>57</td>
-      <td>99</td>
-      <td>10</td>
-      <td>0</td>
-      <td>0</td>
-      <td>181</td>
-      <td>188</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>5</td>
-      <td>Wildcat Star</td>
-      <td>Garoffalo Jose</td>
-      <td>Reyes L</td>
-      <td>10</td>
-      <td>10</td>
-      <td>44</td>
-      <td>88</td>
-      <td>10</td>
-      <td>0</td>
-      <td>0</td>
-      <td>161</td>
-      <td>171</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>3</td>
-      <td>Bullet On Tap</td>
-      <td>D'Angelo Jose F</td>
-      <td>Gonzalez E</td>
-      <td>10</td>
-      <td>10</td>
-      <td>40</td>
-      <td>94</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>154</td>
-      <td>164</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>4</td>
-      <td>Tora Lora Lora</td>
-      <td>Gonzalez Javier E</td>
-      <td>Beato I</td>
-      <td>0</td>
-      <td>0</td>
-      <td>44</td>
-      <td>95</td>
-      <td>10</td>
-      <td>0</td>
-      <td>0</td>
-      <td>148</td>
-      <td>158</td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>1</td>
-      <td>I Said Hey</td>
-      <td>Gonzalez Claudio A</td>
-      <td>Perez E</td>
-      <td>10</td>
-      <td>5</td>
-      <td>41</td>
-      <td>91</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>147</td>
-      <td>157</td>
-    </tr>
-    <tr>
       <td>7</td>
-      <td>7</td>
-      <td>Ride On Beauty</td>
-      <td>Garoffalo Jose</td>
-      <td>Vasquez W</td>
+      <td>Brisky Frolic</td>
+      <td>Pletcher Todd A</td>
+      <td>Rosario J</td>
       <td>0</td>
-      <td>0</td>
-      <td>33</td>
-      <td>92</td>
-      <td>10</td>
-      <td>0</td>
-      <td>0</td>
-      <td>135</td>
-      <td>138</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>8</td>
-      <td>Awesome Birdie</td>
-      <td>Pinchin Jose</td>
-      <td>Vasquez M A</td>
-      <td>0</td>
-      <td>0</td>
-      <td>40</td>
-      <td>82</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>122</td>
-      <td>122</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>2</td>
-      <td>Radagast</td>
-      <td>O'Dwyer Jeremiah</td>
-      <td>Maragh R R</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>10</td>
-    </tr>
-  </tbody>
-</table>
-## Race: 4 / Class: Md 12500 / Distance: 5.5 / Surface: Dirt
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Post</th>
-      <th>#</th>
-      <th>Horse</th>
-      <th>Trainer</th>
-      <th>Jockey</th>
-      <th>E</th>
-      <th>ITM</th>
-      <th>B</th>
-      <th>S</th>
-      <th>C</th>
-      <th>T</th>
-      <th>J</th>
-      <th>FinalScore</th>
-      <th>NEW FinalScore</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>3</td>
-      <td>3</td>
-      <td>Fearless Girl</td>
-      <td>Silvestri Richard D</td>
-      <td>Alvarado J</td>
-      <td>10</td>
-      <td>10</td>
-      <td>52</td>
-      <td>93</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>164</td>
-      <td>174</td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>1</td>
-      <td>Uncaptured Faith</td>
-      <td>Pinchin Jose</td>
-      <td>Jaramillo E</td>
-      <td>10</td>
-      <td>10</td>
-      <td>35</td>
-      <td>91</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>145</td>
-      <td>155</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>9</td>
-      <td>Latte Lover</td>
-      <td>Ramirez Luis M</td>
-      <td>Berrios Hector I</td>
-      <td>10</td>
-      <td>0</td>
-      <td>38</td>
-      <td>90</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>138</td>
-      <td>138</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>10</td>
-      <td>Rough Enough</td>
-      <td>James Gerald</td>
-      <td>Sutherland C</td>
-      <td>10</td>
-      <td>0</td>
-      <td>31</td>
-      <td>89</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>130</td>
-      <td>130</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>11</td>
-      <td>Banking On You</td>
-      <td>Gargan Danny</td>
-      <td>Vasquez M A</td>
-      <td>0</td>
-      <td>0</td>
-      <td>31</td>
-      <td>87</td>
-      <td>10</td>
-      <td>0</td>
-      <td>0</td>
-      <td>128</td>
-      <td>128</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>7</td>
-      <td>Sunday Suzanne</td>
-      <td>Arias Juan D</td>
-      <td>Perez E</td>
-      <td>0</td>
-      <td>0</td>
-      <td>35</td>
-      <td>86</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>120</td>
-      <td>123</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>6</td>
-      <td>Happy's Nice Candy</td>
-      <td>Williams Andy P</td>
-      <td>Calles F</td>
-      <td>0</td>
-      <td>0</td>
-      <td>25</td>
-      <td>86</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>111</td>
-      <td>118</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>4</td>
-      <td>Bit Coin Babe</td>
-      <td>Gonzalez Javier E</td>
-      <td>Reyes L</td>
-      <td>0</td>
-      <td>0</td>
-      <td>23</td>
-      <td>80</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>103</td>
-      <td>113</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>8</td>
-      <td>Mudshaft</td>
-      <td>Williams Matthew J</td>
-      <td>Morrison A</td>
-      <td>0</td>
-      <td>0</td>
-      <td>19</td>
-      <td>81</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>101</td>
-      <td>101</td>
-    </tr>
-    <tr>
       <td>5</td>
-      <td>5</td>
-      <td>Raven's Harlaqueen</td>
-      <td>Infante Michael</td>
-      <td>Lebron V</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
       <td>62</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>62</td>
-      <td>72</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>2</td>
-      <td>Leah's Legacy</td>
-      <td>Sweezey J Kent</td>
-      <td>Vasquez W</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>94</td>
       <td>10</td>
-    </tr>
-  </tbody>
-</table>
-## Race: 5 / Class: Clm 20000B / Distance: 8.0 / Surface: Dirt
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Post</th>
-      <th>#</th>
-      <th>Horse</th>
-      <th>Trainer</th>
-      <th>Jockey</th>
-      <th>E</th>
-      <th>ITM</th>
-      <th>B</th>
-      <th>S</th>
-      <th>C</th>
-      <th>T</th>
-      <th>J</th>
-      <th>FinalScore</th>
-      <th>NEW FinalScore</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>7</td>
-      <td>7</td>
-      <td>Little Demon</td>
-      <td>David Carlos A</td>
-      <td>Alvarado J</td>
-      <td>10</td>
-      <td>5</td>
-      <td>73</td>
-      <td>95</td>
-      <td>5</td>
+      <td>15</td>
       <td>0</td>
-      <td>0</td>
-      <td>187</td>
-      <td>190</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>8</td>
-      <td>Man On the Moon</td>
-      <td>Hess R B Jr</td>
-      <td>Vasquez M A</td>
-      <td>10</td>
-      <td>10</td>
-      <td>72</td>
-      <td>93</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>185</td>
       <td>186</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>2</td>
-      <td>Flipping Fish</td>
-      <td>Breen Kelly J</td>
-      <td>Panici L</td>
-      <td>10</td>
-      <td>10</td>
-      <td>63</td>
-      <td>92</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>175</td>
-      <td>185</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>3</td>
-      <td>Menelik</td>
-      <td>Alter Happy</td>
-      <td>Gonzalez E</td>
-      <td>10</td>
-      <td>0</td>
-      <td>60</td>
-      <td>89</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0</td>
-      <td>164</td>
-      <td>174</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>5</td>
-      <td>Nixon Joy</td>
-      <td>Duco Luis</td>
-      <td>Boraco D</td>
-      <td>0</td>
-      <td>0</td>
-      <td>68</td>
-      <td>94</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>162</td>
-      <td>171</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>6</td>
-      <td>Dimenna</td>
-      <td>Sweezey J Kent</td>
-      <td>Vasquez W</td>
-      <td>0</td>
-      <td>0</td>
-      <td>65</td>
-      <td>94</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0</td>
-      <td>164</td>
-      <td>171</td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>1</td>
-      <td>Positively Awesome</td>
-      <td>Nicks Ralph E</td>
-      <td>Jaramillo E</td>
-      <td>0</td>
-      <td>0</td>
-      <td>65</td>
-      <td>92</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>157</td>
-      <td>167</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>4</td>
-      <td>Almashriq</td>
-      <td>Pita Daniel</td>
-      <td>Reyes L</td>
-      <td>0</td>
-      <td>0</td>
-      <td>22</td>
-      <td>66</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0</td>
-      <td>93</td>
-      <td>103</td>
-    </tr>
-  </tbody>
-</table>
-## Race: 6 / Class: OC 20k/N1X / Distance: 8.0 / Surface: Dirt
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Post</th>
-      <th>#</th>
-      <th>Horse</th>
-      <th>Trainer</th>
-      <th>Jockey</th>
-      <th>E</th>
-      <th>ITM</th>
-      <th>B</th>
-      <th>S</th>
-      <th>C</th>
-      <th>T</th>
-      <th>J</th>
-      <th>FinalScore</th>
-      <th>NEW FinalScore</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>4</td>
-      <td>4</td>
-      <td>Roan Mountain</td>
-      <td>Barboza Victor Jr</td>
-      <td>Morelos J E</td>
-      <td>10</td>
-      <td>20</td>
-      <td>82</td>
-      <td>106</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0</td>
-      <td>224</td>
-      <td>234</td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>1</td>
-      <td>Nacho Papa</td>
-      <td>O'Connor Matthew B</td>
-      <td>Maragh R R</td>
-      <td>10</td>
-      <td>10</td>
-      <td>65</td>
-      <td>93</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0</td>
-      <td>183</td>
       <td>193</td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>6</td>
-      <td>First Rule</td>
-      <td>Morici Diane D</td>
-      <td>Reyes L</td>
-      <td>10</td>
-      <td>10</td>
-      <td>64</td>
-      <td>94</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0</td>
-      <td>183</td>
-      <td>191</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>7</td>
-      <td>Chucky</td>
-      <td>Joseph Saffie A Jr</td>
-      <td>Alvarado J</td>
-      <td>0</td>
-      <td>20</td>
-      <td>72</td>
-      <td>93</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>186</td>
-      <td>188</td>
-    </tr>
-    <tr>
       <td>2</td>
-      <td>2</td>
-      <td>Hercules</td>
-      <td>Alvarado Juan</td>
-      <td>Morrison A</td>
+      <td>3</td>
+      <td>Approach The Dawn</td>
+      <td>Motion H Graham</td>
+      <td>Cancel E</td>
+      <td>0</td>
       <td>10</td>
-      <td>5</td>
-      <td>62</td>
-      <td>96</td>
-      <td>5</td>
+      <td>58</td>
+      <td>91</td>
+      <td>10</td>
       <td>0</td>
-      <td>0</td>
-      <td>178</td>
-      <td>188</td>
+      <td>13</td>
+      <td>182</td>
+      <td>192</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>5</td>
-      <td>Braccio Di Ferro</td>
-      <td>D'Angelo Jose F</td>
-      <td>Gonzalez E</td>
+      <td>6</td>
+      <td>Mac the Pee H Dee</td>
+      <td>Duarte Jorge Jr</td>
+      <td>Ortiz J L</td>
       <td>0</td>
-      <td>5</td>
+      <td>0</td>
       <td>68</td>
       <td>94</td>
-      <td>5</td>
+      <td>10</td>
       <td>0</td>
       <td>0</td>
       <td>172</td>
       <td>182</td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>3</td>
-      <td>Ampersand</td>
-      <td>Serpe Philip M</td>
-      <td>Jaramillo E</td>
-      <td>0</td>
-      <td>0</td>
-      <td>64</td>
-      <td>95</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0</td>
-      <td>165</td>
-      <td>175</td>
-    </tr>
-  </tbody>
-</table>
-## Race: 7 / Class: OC 20k/N1X / Distance: 5.0 / Surface: Turf
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Post</th>
-      <th>#</th>
-      <th>Horse</th>
-      <th>Trainer</th>
-      <th>Jockey</th>
-      <th>E</th>
-      <th>ITM</th>
-      <th>B</th>
-      <th>S</th>
-      <th>C</th>
-      <th>T</th>
-      <th>J</th>
-      <th>FinalScore</th>
-      <th>NEW FinalScore</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>6</td>
-      <td>6</td>
-      <td>Simply the Best</td>
-      <td>Gargan Danny</td>
-      <td>Vasquez M A</td>
-      <td>0</td>
-      <td>20</td>
-      <td>65</td>
-      <td>105</td>
-      <td>10</td>
-      <td>0</td>
-      <td>0</td>
-      <td>200</td>
-      <td>207</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>5</td>
-      <td>Morning Cocktail</td>
-      <td>Foley Thomas D</td>
-      <td>Meneses M</td>
-      <td>0</td>
-      <td>20</td>
-      <td>65</td>
-      <td>96</td>
-      <td>10</td>
-      <td>0</td>
-      <td>0</td>
-      <td>191</td>
-      <td>201</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>3</td>
-      <td>Psychic Ability</td>
-      <td>Joseph Saffie A Jr</td>
+      <td>11</td>
+      <td>12</td>
+      <td>Cupids Girl</td>
+      <td>Ryerson James T</td>
       <td>Alvarado J</td>
       <td>10</td>
-      <td>20</td>
-      <td>62</td>
-      <td>92</td>
       <td>5</td>
-      <td>0</td>
-      <td>0</td>
-      <td>190</td>
-      <td>200</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>4</td>
-      <td>The Great Kath</td>
-      <td>Joseph Saffie A Jr</td>
-      <td>Reyes L</td>
-      <td>10</td>
-      <td>5</td>
-      <td>70</td>
-      <td>100</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0</td>
-      <td>190</td>
-      <td>200</td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>1</td>
-      <td>Brody's Honor</td>
-      <td>D'Angelo Jose F</td>
-      <td>Perez E</td>
-      <td>10</td>
-      <td>10</td>
-      <td>68</td>
-      <td>93</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0</td>
-      <td>186</td>
-      <td>195</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>2</td>
-      <td>Romantic Tale</td>
-      <td>Pinnock Hubert</td>
-      <td>Panici L</td>
-      <td>10</td>
-      <td>10</td>
-      <td>58</td>
-      <td>98</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0</td>
-      <td>181</td>
-      <td>191</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>7</td>
-      <td>Fulminate</td>
-      <td>Casse Mark</td>
-      <td>Jaramillo E</td>
-      <td>0</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0</td>
-      <td>10</td>
-      <td>0</td>
-      <td>0</td>
-      <td>15</td>
-      <td>18</td>
-    </tr>
-  </tbody>
-</table>
-## Race: 8 / Class: Alw 43000N1X / Distance: 7.0 / Surface: Dirt
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Post</th>
-      <th>#</th>
-      <th>Horse</th>
-      <th>Trainer</th>
-      <th>Jockey</th>
-      <th>E</th>
-      <th>ITM</th>
-      <th>B</th>
-      <th>S</th>
-      <th>C</th>
-      <th>T</th>
-      <th>J</th>
-      <th>FinalScore</th>
-      <th>NEW FinalScore</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>6</td>
-      <td>6</td>
-      <td>No Decaf</td>
-      <td>Ramirez Luis M</td>
-      <td>Arroyo A S</td>
-      <td>10</td>
-      <td>20</td>
-      <td>69</td>
-      <td>99</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0</td>
-      <td>203</td>
-      <td>210</td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>1</td>
-      <td>Frankly My Dear</td>
-      <td>Lee Garry F</td>
-      <td>Morrison A</td>
-      <td>10</td>
-      <td>20</td>
-      <td>54</td>
-      <td>95</td>
-      <td>10</td>
-      <td>0</td>
-      <td>0</td>
-      <td>190</td>
-      <td>199</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>8</td>
-      <td>American of Course</td>
-      <td>O'Connell Kathleen</td>
-      <td>Gonzalez E</td>
-      <td>10</td>
-      <td>20</td>
-      <td>64</td>
-      <td>98</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0</td>
-      <td>197</td>
-      <td>197</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>2</td>
-      <td>Sea Art</td>
-      <td>Barboza Victor Jr</td>
-      <td>Jaramillo E</td>
-      <td>0</td>
-      <td>20</td>
-      <td>60</td>
-      <td>93</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>173</td>
-      <td>183</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>3</td>
-      <td>Foxy Lady</td>
-      <td>Spatz Ronald B</td>
-      <td>Vasquez M A</td>
-      <td>0</td>
-      <td>0</td>
-      <td>61</td>
-      <td>95</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0</td>
-      <td>160</td>
-      <td>170</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>5</td>
-      <td>Freak</td>
-      <td>D'Angelo Jose F</td>
-      <td>Alvarado J</td>
-      <td>0</td>
-      <td>0</td>
-      <td>52</td>
-      <td>88</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0</td>
-      <td>145</td>
-      <td>155</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>4</td>
-      <td>Queen Camilla</td>
-      <td>Sano Antonio</td>
-      <td>Reyes L</td>
-      <td>10</td>
-      <td>0</td>
-      <td>43</td>
-      <td>84</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0</td>
-      <td>142</td>
-      <td>152</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>7</td>
-      <td>Manuela</td>
-      <td>Garcia Rodolfo</td>
-      <td>Meneses M</td>
-      <td>0</td>
-      <td>20</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>20</td>
-      <td>23</td>
-    </tr>
-  </tbody>
-</table>
-## Race: 9 / Class: Soc 35000C / Distance: 7.5 / Surface: Dirt
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Post</th>
-      <th>#</th>
-      <th>Horse</th>
-      <th>Trainer</th>
-      <th>Jockey</th>
-      <th>E</th>
-      <th>ITM</th>
-      <th>B</th>
-      <th>S</th>
-      <th>C</th>
-      <th>T</th>
-      <th>J</th>
-      <th>FinalScore</th>
-      <th>NEW FinalScore</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>6</td>
-      <td>6</td>
-      <td>Fish Mooney</td>
-      <td>Casse Mark</td>
-      <td>Bridgmohan S X</td>
-      <td>10</td>
-      <td>20</td>
       <td>55</td>
-      <td>89</td>
-      <td>5</td>
+      <td>94</td>
+      <td>10</td>
       <td>0</td>
       <td>0</td>
-      <td>179</td>
-      <td>187</td>
+      <td>174</td>
+      <td>174</td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>1</td>
-      <td>Science Friction</td>
-      <td>De La Cerda Armando</td>
-      <td>Rios J M</td>
+      <td>9</td>
       <td>10</td>
-      <td>20</td>
+      <td>Mostly Harmless</td>
+      <td>Arenas Marcelo</td>
+      <td>Mena R E</td>
+      <td>10</td>
+      <td>0</td>
       <td>48</td>
-      <td>95</td>
+      <td>91</td>
+      <td>10</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>173</td>
-      <td>183</td>
+      <td>8</td>
+      <td>166</td>
+      <td>166</td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>3</td>
-      <td>Strong Embrace</td>
-      <td>Maker Michael J</td>
-      <td>Jaramillo E</td>
-      <td>0</td>
-      <td>10</td>
-      <td>63</td>
-      <td>98</td>
+      <td>7</td>
+      <td>8</td>
+      <td>Snow Loves a Fight</td>
+      <td>Noda Orlando</td>
+      <td>Carmouche K</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>172</td>
-      <td>181</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>2</td>
-      <td>Jet Force</td>
-      <td>O'Dwyer Jeremiah</td>
-      <td>Maragh R R</td>
-      <td>10</td>
-      <td>20</td>
       <td>46</td>
+      <td>80</td>
+      <td>10</td>
+      <td>7</td>
+      <td>14</td>
+      <td>157</td>
+      <td>159</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>5</td>
+      <td>Solaris Ventum</td>
+      <td>Asmussen Steven M</td>
+      <td>Gomez J A</td>
+      <td>0</td>
+      <td>0</td>
+      <td>31</td>
       <td>82</td>
       <td>10</td>
       <td>0</td>
       <td>0</td>
-      <td>168</td>
-      <td>178</td>
+      <td>123</td>
+      <td>133</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>13</td>
+      <td>Madame Rose</td>
+      <td>Jones Eduardo E</td>
+      <td>Cardenas L</td>
+      <td>10</td>
+      <td>0</td>
+      <td>30</td>
+      <td>77</td>
+      <td>10</td>
+      <td>0</td>
+      <td>2</td>
+      <td>129</td>
+      <td>129</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>4</td>
+      <td>Osiria</td>
+      <td>Clement Christophe</td>
+      <td>McCarthy T</td>
+      <td>0</td>
+      <td>0</td>
+      <td>22</td>
+      <td>75</td>
+      <td>10</td>
+      <td>0</td>
+      <td>10</td>
+      <td>118</td>
+      <td>127</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>Full Count Felicia</td>
+      <td>Summers Chad</td>
+      <td>Castellano J J</td>
+      <td>10</td>
+      <td>5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>10</td>
+      <td>0</td>
+      <td>20</td>
+      <td>45</td>
+      <td>55</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>1</td>
+      <td>Positive Sum</td>
+      <td>Brown Chad C</td>
+      <td>Franco M</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>10</td>
+      <td>24</td>
+      <td>9</td>
+      <td>42</td>
+      <td>42</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>1A</td>
+      <td>Speaks for Itself</td>
+      <td>Brown Chad C</td>
+      <td>No Rider</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>24</td>
+      <td>0</td>
+      <td>24</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>9</td>
+      <td>Union Dolly</td>
+      <td>Handal Raymond</td>
+      <td>Davis D</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>10</td>
+      <td>2</td>
+      <td>11</td>
+      <td>23</td>
+      <td>23</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>11</td>
+      <td>Whiskey Lullaby</td>
+      <td>Rice Linda</td>
+      <td>Lezcano J</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>9</td>
+      <td>9</td>
+      <td>17</td>
+      <td>17</td>
+    </tr>
+  </tbody>
+</table>
+## Race: 2 / Class: Alw 82000N1X / Distance: 6.0 / Surface: Dirt
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Post</th>
+      <th>#</th>
+      <th>Horse</th>
+      <th>Trainer</th>
+      <th>Jockey</th>
+      <th>E</th>
+      <th>ITM</th>
+      <th>B</th>
+      <th>S</th>
+      <th>C</th>
+      <th>T</th>
+      <th>J</th>
+      <th>FinalScore</th>
+      <th>NEW FinalScore</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>2</td>
+      <td>Timed Out</td>
+      <td>Rodriguez Rudy R</td>
+      <td>Vargas J A Jr</td>
+      <td>0</td>
+      <td>20</td>
+      <td>78</td>
+      <td>102</td>
+      <td>0</td>
+      <td>8</td>
+      <td>9</td>
+      <td>218</td>
+      <td>228</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>Monshun</td>
+      <td>Handal Raymond</td>
+      <td>Davis D</td>
+      <td>0</td>
+      <td>20</td>
+      <td>72</td>
+      <td>100</td>
+      <td>10</td>
+      <td>2</td>
+      <td>11</td>
+      <td>215</td>
+      <td>225</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3</td>
+      <td>World Gone Wild</td>
+      <td>Ness Jamie</td>
+      <td>Silvera R</td>
+      <td>10</td>
+      <td>20</td>
+      <td>60</td>
+      <td>92</td>
+      <td>5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>187</td>
+      <td>197</td>
     </tr>
     <tr>
       <td>5</td>
       <td>5</td>
-      <td>Hatari</td>
-      <td>Thomas Jonathan</td>
-      <td>Vasquez M A</td>
-      <td>0</td>
+      <td>Lanfrankophile</td>
+      <td>Lynch Natalia</td>
+      <td>Rodriguez L A</td>
       <td>10</td>
-      <td>58</td>
-      <td>95</td>
+      <td>20</td>
+      <td>52</td>
+      <td>92</td>
+      <td>0</td>
+      <td>0</td>
+      <td>9</td>
+      <td>184</td>
+      <td>194</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>4</td>
+      <td>Midtown Rose</td>
+      <td>Mosco Robert</td>
+      <td>Gonzalez S</td>
+      <td>10</td>
+      <td>10</td>
+      <td>55</td>
+      <td>93</td>
       <td>5</td>
       <td>0</td>
       <td>0</td>
-      <td>168</td>
+      <td>173</td>
+      <td>183</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>6</td>
+      <td>Fight On Lucy</td>
+      <td>Kelly Patrick J</td>
+      <td>Gomez J A</td>
+      <td>10</td>
+      <td>5</td>
+      <td>58</td>
+      <td>94</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>167</td>
+      <td>174</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>7</td>
+      <td>Awillaway</td>
+      <td>Friedman Mitchell</td>
+      <td>Cardenas L</td>
+      <td>0</td>
+      <td>0</td>
+      <td>53</td>
+      <td>90</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>145</td>
+      <td>147</td>
+    </tr>
+  </tbody>
+</table>
+## Race: 3 / Class: Md Sp Wt 80k / Distance: 8.0 / Surface: Turf
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Post</th>
+      <th>#</th>
+      <th>Horse</th>
+      <th>Trainer</th>
+      <th>Jockey</th>
+      <th>E</th>
+      <th>ITM</th>
+      <th>B</th>
+      <th>S</th>
+      <th>C</th>
+      <th>T</th>
+      <th>J</th>
+      <th>FinalScore</th>
+      <th>NEW FinalScore</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9</td>
+      <td>10</td>
+      <td>Improper</td>
+      <td>Terranova John P II</td>
+      <td>Davis D</td>
+      <td>10</td>
+      <td>0</td>
+      <td>64</td>
+      <td>93</td>
+      <td>10</td>
+      <td>0</td>
+      <td>11</td>
+      <td>187</td>
+      <td>187</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>3</td>
+      <td>Everesting</td>
+      <td>Johnson Cleveland</td>
+      <td>Samuel J L</td>
+      <td>10</td>
+      <td>0</td>
+      <td>58</td>
+      <td>89</td>
+      <td>10</td>
+      <td>0</td>
+      <td>10</td>
+      <td>177</td>
+      <td>187</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>12</td>
+      <td>Prince of Fenton</td>
+      <td>Russell Brittany T</td>
+      <td>Vargas J A Jr</td>
+      <td>0</td>
+      <td>20</td>
+      <td>50</td>
+      <td>96</td>
+      <td>10</td>
+      <td>0</td>
+      <td>9</td>
+      <td>184</td>
+      <td>184</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>15</td>
+      <td>Writeitontheice</td>
+      <td>Rodriguez Rudy R</td>
+      <td>McCarthy T</td>
+      <td>0</td>
+      <td>0</td>
+      <td>57</td>
+      <td>91</td>
+      <td>10</td>
+      <td>8</td>
+      <td>10</td>
+      <td>177</td>
       <td>177</td>
     </tr>
     <tr>
+      <td>7</td>
+      <td>8</td>
+      <td>Bay Street Money</td>
+      <td>Atras Rob</td>
+      <td>Carmouche K</td>
+      <td>0</td>
+      <td>0</td>
+      <td>54</td>
+      <td>86</td>
+      <td>10</td>
+      <td>10</td>
+      <td>14</td>
+      <td>174</td>
+      <td>177</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>6</td>
+      <td>Torpedo Run</td>
+      <td>Kimmel John C</td>
+      <td>Cancel E</td>
+      <td>0</td>
+      <td>0</td>
+      <td>53</td>
+      <td>91</td>
+      <td>10</td>
+      <td>0</td>
+      <td>13</td>
+      <td>167</td>
+      <td>176</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>7</td>
+      <td>Stjames</td>
+      <td>Gyarmati Leah</td>
+      <td>Lezcano J</td>
+      <td>0</td>
+      <td>0</td>
+      <td>39</td>
+      <td>82</td>
+      <td>10</td>
+      <td>0</td>
+      <td>9</td>
+      <td>140</td>
+      <td>148</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>13</td>
+      <td>Curteis</td>
+      <td>Dunham Bernard G</td>
+      <td>Flores L Jr</td>
+      <td>0</td>
+      <td>0</td>
+      <td>35</td>
+      <td>63</td>
+      <td>10</td>
+      <td>0</td>
+      <td>0</td>
+      <td>108</td>
+      <td>108</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>Predicted</td>
+      <td>Dutrow Anthony W</td>
+      <td>Castellano J J</td>
+      <td>10</td>
+      <td>10</td>
+      <td>0</td>
+      <td>0</td>
+      <td>10</td>
+      <td>0</td>
+      <td>20</td>
+      <td>50</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>11</td>
+      <td>Al's Rocket</td>
+      <td>Pletcher Todd A</td>
+      <td>Rosario J</td>
+      <td>10</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>10</td>
+      <td>15</td>
+      <td>0</td>
+      <td>55</td>
+      <td>55</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>1A</td>
+      <td>Devil's Outlaw</td>
+      <td>Brown Chad C</td>
+      <td>Ortiz J L</td>
+      <td>0</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>24</td>
+      <td>0</td>
+      <td>44</td>
+      <td>44</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>14</td>
+      <td>Higher Quality</td>
+      <td>Brown Chad C</td>
+      <td>No Rider</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>10</td>
+      <td>24</td>
+      <td>0</td>
+      <td>34</td>
+      <td>34</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>9</td>
+      <td>Cognitive Bias</td>
+      <td>Brown Chad C</td>
+      <td>Franco M</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>24</td>
+      <td>9</td>
+      <td>32</td>
+      <td>33</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>1</td>
+      <td>Howe Street</td>
+      <td>Abreu Jorge R</td>
+      <td>McCarthy T</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>10</td>
+      <td>10</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>4</td>
+      <td>Corton Charlemagne</td>
+      <td>Clement Christophe</td>
+      <td>Alvarado J</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>10</td>
+    </tr>
+    <tr>
       <td>4</td>
-      <td>Bravo Zulu</td>
-      <td>Lee Garry F</td>
-      <td>Gonzalez E</td>
+      <td>5</td>
+      <td>Father Red</td>
+      <td>Stidham Michael</td>
+      <td>Pennington F</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>10</td>
+    </tr>
+  </tbody>
+</table>
+## Race: 4 / Class: Alw 82000N1X / Distance: 8.5 / Surface: Turf
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Post</th>
+      <th>#</th>
+      <th>Horse</th>
+      <th>Trainer</th>
+      <th>Jockey</th>
+      <th>E</th>
+      <th>ITM</th>
+      <th>B</th>
+      <th>S</th>
+      <th>C</th>
+      <th>T</th>
+      <th>J</th>
+      <th>FinalScore</th>
+      <th>NEW FinalScore</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>7</td>
+      <td>1A</td>
+      <td>Investmentstrategy</td>
+      <td>Brown Chad C</td>
+      <td>Franco M</td>
+      <td>0</td>
+      <td>20</td>
+      <td>70</td>
+      <td>98</td>
+      <td>10</td>
+      <td>24</td>
+      <td>9</td>
+      <td>230</td>
+      <td>233</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>7</td>
+      <td>Honey Money</td>
+      <td>Lucas Bonnie</td>
+      <td>McCarthy T</td>
+      <td>10</td>
+      <td>20</td>
+      <td>73</td>
+      <td>97</td>
+      <td>5</td>
+      <td>0</td>
+      <td>10</td>
+      <td>216</td>
+      <td>217</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>5</td>
+      <td>Giggle Factory</td>
+      <td>Albertrani Thomas</td>
+      <td>Davis D</td>
+      <td>10</td>
+      <td>20</td>
+      <td>71</td>
+      <td>94</td>
+      <td>0</td>
+      <td>0</td>
+      <td>11</td>
+      <td>206</td>
+      <td>215</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>1</td>
+      <td>Dream of Change</td>
+      <td>Brown Chad C</td>
+      <td>Ortiz J L</td>
+      <td>0</td>
+      <td>20</td>
+      <td>60</td>
+      <td>91</td>
+      <td>5</td>
+      <td>24</td>
+      <td>0</td>
+      <td>200</td>
+      <td>209</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>4</td>
+      <td>Ready To Venture</td>
+      <td>Stidham Michael</td>
+      <td>Carmouche K</td>
+      <td>0</td>
+      <td>0</td>
+      <td>82</td>
+      <td>99</td>
+      <td>0</td>
+      <td>0</td>
+      <td>14</td>
+      <td>195</td>
+      <td>205</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>9</td>
+      <td>Entwine</td>
+      <td>Hennig Mark</td>
+      <td>Cancel E</td>
+      <td>10</td>
+      <td>0</td>
+      <td>43</td>
+      <td>96</td>
+      <td>5</td>
+      <td>1</td>
+      <td>13</td>
+      <td>168</td>
+      <td>168</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>6</td>
+      <td>Game Theory</td>
+      <td>Jones Eduardo E</td>
+      <td>Cardenas L</td>
+      <td>0</td>
+      <td>0</td>
+      <td>36</td>
+      <td>76</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>113</td>
+      <td>121</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>Miss Tapirado</td>
+      <td>Mott William I</td>
+      <td>Alvarado J</td>
+      <td>0</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>10</td>
+      <td>0</td>
+      <td>0</td>
+      <td>30</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>8</td>
+      <td>Timeless Journey</td>
+      <td>Clement Christophe</td>
+      <td>McCarthy T</td>
+      <td>10</td>
+      <td>10</td>
+      <td>0</td>
       <td>0</td>
       <td>5</td>
+      <td>0</td>
+      <td>10</td>
+      <td>36</td>
+      <td>36</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>3</td>
+      <td>Eylara</td>
+      <td>Clement Christophe</td>
+      <td>Rosario J</td>
+      <td>0</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>20</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>
+## Race: 5 / Class: DistaffH-G3 / Distance: 7.0 / Surface: Dirt
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Post</th>
+      <th>#</th>
+      <th>Horse</th>
+      <th>Trainer</th>
+      <th>Jockey</th>
+      <th>E</th>
+      <th>ITM</th>
+      <th>B</th>
+      <th>S</th>
+      <th>C</th>
+      <th>T</th>
+      <th>J</th>
+      <th>FinalScore</th>
+      <th>NEW FinalScore</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>6</td>
+      <td>6</td>
+      <td>Glass Ceiling</td>
+      <td>Baker Charlton</td>
+      <td>Davis D</td>
+      <td>10</td>
+      <td>20</td>
+      <td>93</td>
+      <td>107</td>
+      <td>5</td>
+      <td>14</td>
+      <td>11</td>
+      <td>259</td>
+      <td>267</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>5</td>
+      <td>Kept Waiting</td>
+      <td>Falcone Robert N Jr</td>
+      <td>Carmouche K</td>
+      <td>0</td>
+      <td>20</td>
+      <td>78</td>
+      <td>102</td>
+      <td>5</td>
+      <td>0</td>
+      <td>14</td>
+      <td>219</td>
+      <td>229</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>Easy to Bless</td>
+      <td>Ferraro James W</td>
+      <td>Davis J A</td>
+      <td>10</td>
+      <td>20</td>
+      <td>79</td>
+      <td>103</td>
+      <td>5</td>
+      <td>0</td>
+      <td>2</td>
+      <td>218</td>
+      <td>228</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2</td>
+      <td>Dealing Justice</td>
+      <td>Handal Raymond</td>
+      <td>Franco M</td>
+      <td>0</td>
+      <td>10</td>
+      <td>63</td>
+      <td>95</td>
+      <td>5</td>
+      <td>2</td>
+      <td>9</td>
+      <td>184</td>
+      <td>194</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>4</td>
+      <td>Search Results</td>
+      <td>Brown Chad C</td>
+      <td>Ortiz J L</td>
+      <td>10</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>24</td>
+      <td>0</td>
+      <td>54</td>
+      <td>63</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3</td>
+      <td>Zaajel</td>
+      <td>Pletcher Todd A</td>
+      <td>Rosario J</td>
+      <td>10</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>15</td>
+      <td>0</td>
+      <td>45</td>
+      <td>55</td>
+    </tr>
+  </tbody>
+</table>
+## Race: 6 / Class: Clm 20000 / Distance: 8.0 / Surface: Dirt
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Post</th>
+      <th>#</th>
+      <th>Horse</th>
+      <th>Trainer</th>
+      <th>Jockey</th>
+      <th>E</th>
+      <th>ITM</th>
+      <th>B</th>
+      <th>S</th>
+      <th>C</th>
+      <th>T</th>
+      <th>J</th>
+      <th>FinalScore</th>
+      <th>NEW FinalScore</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>5</td>
+      <td>5</td>
+      <td>Yankee Division</td>
+      <td>Handal Raymond</td>
+      <td>Davis D</td>
+      <td>10</td>
+      <td>20</td>
+      <td>81</td>
+      <td>98</td>
+      <td>5</td>
+      <td>2</td>
+      <td>11</td>
+      <td>227</td>
+      <td>236</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>Goodluckchuck</td>
+      <td>Bailes W Robert</td>
+      <td>Castellano J J</td>
+      <td>0</td>
+      <td>20</td>
+      <td>66</td>
+      <td>105</td>
+      <td>5</td>
+      <td>0</td>
+      <td>20</td>
+      <td>216</td>
+      <td>226</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>4</td>
+      <td>Joycee Haz Pizzaz</td>
+      <td>Chatterpaul Naipaul</td>
+      <td>Gomez J A</td>
+      <td>10</td>
+      <td>20</td>
+      <td>66</td>
+      <td>96</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>192</td>
+      <td>202</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2</td>
+      <td>Kumar</td>
+      <td>Rodriguez Gustavo</td>
+      <td>Lezcano J</td>
+      <td>0</td>
+      <td>5</td>
+      <td>79</td>
+      <td>98</td>
+      <td>0</td>
+      <td>1</td>
+      <td>9</td>
+      <td>192</td>
+      <td>202</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>6</td>
+      <td>Anything Pazible</td>
+      <td>Jones Eduardo E</td>
+      <td>Davis J A</td>
+      <td>10</td>
+      <td>5</td>
+      <td>63</td>
+      <td>91</td>
+      <td>5</td>
+      <td>0</td>
+      <td>2</td>
+      <td>176</td>
+      <td>183</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>8</td>
+      <td>Lost in Rome</td>
+      <td>Parker Joseph</td>
+      <td>Silvera R</td>
+      <td>10</td>
+      <td>5</td>
+      <td>69</td>
+      <td>91</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>175</td>
+      <td>175</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3</td>
+      <td>Bourbon Bay</td>
+      <td>Arriaga Antonio</td>
+      <td>McCarthy T</td>
+      <td>0</td>
+      <td>0</td>
+      <td>63</td>
+      <td>88</td>
+      <td>0</td>
+      <td>0</td>
+      <td>10</td>
+      <td>162</td>
+      <td>172</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>7</td>
+      <td>American Rule</td>
+      <td>Noda Orlando</td>
+      <td>Franco M</td>
+      <td>0</td>
+      <td>0</td>
+      <td>64</td>
+      <td>88</td>
+      <td>0</td>
+      <td>7</td>
+      <td>9</td>
+      <td>168</td>
+      <td>171</td>
+    </tr>
+  </tbody>
+</table>
+## Race: 7 / Class: DngersHrL100k / Distance: 8.0 / Surface: Turf
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Post</th>
+      <th>#</th>
+      <th>Horse</th>
+      <th>Trainer</th>
+      <th>Jockey</th>
+      <th>E</th>
+      <th>ITM</th>
+      <th>B</th>
+      <th>S</th>
+      <th>C</th>
+      <th>T</th>
+      <th>J</th>
+      <th>FinalScore</th>
+      <th>NEW FinalScore</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>3</td>
+      <td>3</td>
+      <td>Value Proposition</td>
+      <td>Brown Chad C</td>
+      <td>Franco M</td>
+      <td>10</td>
+      <td>20</td>
+      <td>90</td>
+      <td>103</td>
+      <td>0</td>
+      <td>24</td>
+      <td>9</td>
+      <td>255</td>
+      <td>265</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>9</td>
+      <td>Southern District</td>
+      <td>Brown Chad C</td>
+      <td>Franco M</td>
+      <td>0</td>
+      <td>5</td>
+      <td>93</td>
+      <td>101</td>
+      <td>5</td>
+      <td>24</td>
+      <td>9</td>
+      <td>236</td>
+      <td>236</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>5</td>
+      <td>Rinaldi</td>
+      <td>Bond Harold James</td>
+      <td>McCarthy T</td>
+      <td>10</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>10</td>
+      <td>42</td>
       <td>51</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>4</td>
+      <td>Therapist</td>
+      <td>Clement Christophe</td>
+      <td>Castellano J J</td>
+      <td>0</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>20</td>
+      <td>40</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>City Man</td>
+      <td>Clement Christophe</td>
+      <td>Rosario J</td>
+      <td>10</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>35</td>
+      <td>45</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>7</td>
+      <td>Price Talk</td>
+      <td>Dutrow Anthony W</td>
+      <td>Cancel E</td>
+      <td>0</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>5</td>
+      <td>0</td>
+      <td>13</td>
+      <td>38</td>
+      <td>41</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>8</td>
+      <td>Sanctuary City</td>
+      <td>Ferraro James W</td>
+      <td>Silvera R</td>
+      <td>10</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>35</td>
+      <td>35</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2</td>
+      <td>Oceans Map</td>
+      <td>Sacco Gregory D</td>
+      <td>Alvarado J</td>
+      <td>0</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>25</td>
+      <td>35</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>6</td>
+      <td>It's a Gamble</td>
+      <td>Breen Kelly J</td>
+      <td>Lezcano J</td>
+      <td>0</td>
+      <td>10</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>9</td>
+      <td>19</td>
+      <td>26</td>
+    </tr>
+  </tbody>
+</table>
+## Race: 8 / Class: WoodMem-G2 / Distance: 9.0 / Surface: Dirt
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Post</th>
+      <th>#</th>
+      <th>Horse</th>
+      <th>Trainer</th>
+      <th>Jockey</th>
+      <th>E</th>
+      <th>ITM</th>
+      <th>B</th>
+      <th>S</th>
+      <th>C</th>
+      <th>T</th>
+      <th>J</th>
+      <th>FinalScore</th>
+      <th>NEW FinalScore</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>5</td>
+      <td>5</td>
+      <td>Morello</td>
+      <td>Asmussen Steven M</td>
+      <td>Lezcano J</td>
+      <td>10</td>
+      <td>20</td>
+      <td>90</td>
+      <td>106</td>
+      <td>10</td>
+      <td>0</td>
+      <td>9</td>
+      <td>244</td>
+      <td>254</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3</td>
+      <td>Early Voting</td>
+      <td>Brown Chad C</td>
+      <td>Ortiz J L</td>
+      <td>10</td>
+      <td>20</td>
+      <td>82</td>
+      <td>98</td>
+      <td>10</td>
+      <td>24</td>
+      <td>0</td>
+      <td>242</td>
+      <td>252</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>4</td>
+      <td>Long Term</td>
+      <td>Pletcher Todd A</td>
+      <td>Castellano J J</td>
+      <td>0</td>
+      <td>20</td>
+      <td>78</td>
+      <td>100</td>
+      <td>10</td>
+      <td>15</td>
+      <td>20</td>
+      <td>242</td>
+      <td>252</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>Mo Donegal</td>
+      <td>Pletcher Todd A</td>
+      <td>Rosario J</td>
+      <td>10</td>
+      <td>20</td>
+      <td>90</td>
+      <td>95</td>
+      <td>10</td>
+      <td>15</td>
+      <td>0</td>
+      <td>240</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>8</td>
+      <td>Barese</td>
+      <td>Maker Michael J</td>
+      <td>Davis D</td>
+      <td>10</td>
+      <td>20</td>
+      <td>83</td>
+      <td>108</td>
+      <td>10</td>
+      <td>0</td>
+      <td>11</td>
+      <td>242</td>
+      <td>243</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2</td>
+      <td>Golden Code</td>
+      <td>Pletcher Todd A</td>
+      <td>Carmouche K</td>
+      <td>0</td>
+      <td>20</td>
+      <td>75</td>
+      <td>98</td>
+      <td>10</td>
+      <td>15</td>
+      <td>14</td>
+      <td>231</td>
+      <td>241</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>7</td>
+      <td>A. P.'s Secret</td>
+      <td>Joseph Saffie A Jr</td>
+      <td>Franco M</td>
+      <td>0</td>
+      <td>20</td>
+      <td>80</td>
+      <td>93</td>
+      <td>10</td>
+      <td>0</td>
+      <td>9</td>
+      <td>212</td>
+      <td>215</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>6</td>
+      <td>Skippylongstocking</td>
+      <td>Joseph Saffie A Jr</td>
+      <td>Alvarado J</td>
+      <td>0</td>
+      <td>10</td>
+      <td>76</td>
+      <td>96</td>
+      <td>5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>186</td>
+      <td>194</td>
+    </tr>
+  </tbody>
+</table>
+## Race: 9 / Class: CarterH-G1 / Distance: 7.0 / Surface: Dirt
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Post</th>
+      <th>#</th>
+      <th>Horse</th>
+      <th>Trainer</th>
+      <th>Jockey</th>
+      <th>E</th>
+      <th>ITM</th>
+      <th>B</th>
+      <th>S</th>
+      <th>C</th>
+      <th>T</th>
+      <th>J</th>
+      <th>FinalScore</th>
+      <th>NEW FinalScore</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>Reinvestment Risk</td>
+      <td>Brown Chad C</td>
+      <td>Franco M</td>
+      <td>0</td>
+      <td>20</td>
+      <td>103</td>
+      <td>108</td>
+      <td>5</td>
+      <td>24</td>
+      <td>9</td>
+      <td>268</td>
+      <td>278</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2</td>
+      <td>Green Light Go</td>
+      <td>Jerkens James A</td>
+      <td>Davis D</td>
+      <td>10</td>
+      <td>20</td>
+      <td>98</td>
+      <td>110</td>
+      <td>5</td>
+      <td>0</td>
+      <td>11</td>
+      <td>253</td>
+      <td>263</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>8</td>
+      <td>Speaker's Corner</td>
+      <td>Mott William I</td>
+      <td>Alvarado J</td>
+      <td>10</td>
+      <td>20</td>
+      <td>104</td>
+      <td>106</td>
+      <td>5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>244</td>
+      <td>245</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3</td>
+      <td>Bank On Shea</td>
+      <td>David Carlos A</td>
+      <td>McCarthy T</td>
+      <td>0</td>
+      <td>20</td>
+      <td>90</td>
+      <td>104</td>
+      <td>5</td>
+      <td>0</td>
+      <td>10</td>
+      <td>230</td>
+      <td>239</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>5</td>
+      <td>First Captain</td>
+      <td>McGaughey III Claude R</td>
+      <td>Ortiz J L</td>
+      <td>10</td>
+      <td>20</td>
+      <td>88</td>
+      <td>102</td>
+      <td>5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>225</td>
+      <td>235</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>7</td>
+      <td>Drafted</td>
+      <td>Duggan David P</td>
+      <td>Carmouche K</td>
+      <td>0</td>
+      <td>5</td>
+      <td>89</td>
+      <td>107</td>
+      <td>5</td>
+      <td>3</td>
+      <td>14</td>
+      <td>223</td>
+      <td>226</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>6</td>
+      <td>War Tocsin</td>
+      <td>St Lewis Uriah</td>
+      <td>Haddock D</td>
+      <td>0</td>
+      <td>10</td>
+      <td>77</td>
+      <td>99</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>187</td>
+      <td>194</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>4</td>
+      <td>Mind Control</td>
+      <td>Pletcher Todd A</td>
+      <td>Rosario J</td>
+      <td>10</td>
+      <td>10</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>15</td>
+      <td>0</td>
+      <td>35</td>
+      <td>45</td>
+    </tr>
+  </tbody>
+</table>
+## Race: 10 / Class: Gazelle-G3 / Distance: 9.0 / Surface: Dirt
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Post</th>
+      <th>#</th>
+      <th>Horse</th>
+      <th>Trainer</th>
+      <th>Jockey</th>
+      <th>E</th>
+      <th>ITM</th>
+      <th>B</th>
+      <th>S</th>
+      <th>C</th>
+      <th>T</th>
+      <th>J</th>
+      <th>FinalScore</th>
+      <th>NEW FinalScore</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>5</td>
+      <td>5</td>
+      <td>Venti Valentine</td>
+      <td>Abreu Jorge R</td>
+      <td>Franco M</td>
+      <td>10</td>
+      <td>20</td>
+      <td>92</td>
+      <td>103</td>
+      <td>10</td>
+      <td>0</td>
+      <td>9</td>
+      <td>244</td>
+      <td>253</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>6</td>
+      <td>Classy Edition</td>
+      <td>Pletcher Todd A</td>
+      <td>Rosario J</td>
+      <td>10</td>
+      <td>20</td>
+      <td>81</td>
+      <td>94</td>
+      <td>10</td>
+      <td>15</td>
+      <td>0</td>
+      <td>230</td>
+      <td>237</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>4</td>
+      <td>Shotgun Hottie</td>
+      <td>Morey William E</td>
+      <td>McCarthy T</td>
+      <td>10</td>
+      <td>20</td>
+      <td>72</td>
+      <td>97</td>
+      <td>10</td>
+      <td>1</td>
+      <td>10</td>
+      <td>221</td>
+      <td>231</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2</td>
+      <td>Greatitude</td>
+      <td>Pletcher Todd A</td>
+      <td>Castellano J J</td>
+      <td>0</td>
+      <td>10</td>
+      <td>67</td>
+      <td>94</td>
+      <td>10</td>
+      <td>15</td>
+      <td>20</td>
+      <td>215</td>
+      <td>225</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>Morning Matcha</td>
+      <td>Reid Robert E Jr</td>
+      <td>Pennington F</td>
+      <td>10</td>
+      <td>20</td>
+      <td>73</td>
+      <td>97</td>
+      <td>5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>205</td>
+      <td>215</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>7</td>
+      <td>Divine Huntress</td>
+      <td>Motion H Graham</td>
+      <td>Davis D</td>
+      <td>0</td>
+      <td>20</td>
+      <td>71</td>
+      <td>95</td>
+      <td>10</td>
+      <td>0</td>
+      <td>11</td>
+      <td>207</td>
+      <td>209</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>8</td>
+      <td>Caragate</td>
+      <td>Friedman Mitchell</td>
+      <td>Cancel E</td>
+      <td>0</td>
+      <td>20</td>
+      <td>64</td>
+      <td>100</td>
+      <td>10</td>
+      <td>0</td>
+      <td>13</td>
+      <td>206</td>
+      <td>206</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3</td>
+      <td>Nostalgic</td>
+      <td>Mott William I</td>
+      <td>Ortiz J L</td>
+      <td>0</td>
+      <td>20</td>
+      <td>66</td>
       <td>92</td>
       <td>10</td>
       <td>0</td>
       <td>0</td>
-      <td>158</td>
-      <td>168</td>
+      <td>188</td>
+      <td>198</td>
+    </tr>
+  </tbody>
+</table>
+## Race: 11 / Class: BayShore-G3 / Distance: 7.0 / Surface: Dirt
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Post</th>
+      <th>#</th>
+      <th>Horse</th>
+      <th>Trainer</th>
+      <th>Jockey</th>
+      <th>E</th>
+      <th>ITM</th>
+      <th>B</th>
+      <th>S</th>
+      <th>C</th>
+      <th>T</th>
+      <th>J</th>
+      <th>FinalScore</th>
+      <th>NEW FinalScore</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>6</td>
+      <td>6</td>
+      <td>Highly Respected</td>
+      <td>Brown Chad C</td>
+      <td>Franco M</td>
+      <td>0</td>
+      <td>20</td>
+      <td>83</td>
+      <td>105</td>
+      <td>10</td>
+      <td>24</td>
+      <td>9</td>
+      <td>250</td>
+      <td>258</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>5</td>
+      <td>Dean's List</td>
+      <td>Pletcher Todd A</td>
+      <td>Rosario J</td>
+      <td>10</td>
+      <td>20</td>
+      <td>86</td>
+      <td>103</td>
+      <td>10</td>
+      <td>15</td>
+      <td>0</td>
+      <td>243</td>
+      <td>253</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>Fromanothamutha</td>
+      <td>Handal Raymond</td>
+      <td>Davis D</td>
+      <td>0</td>
+      <td>20</td>
+      <td>76</td>
+      <td>97</td>
+      <td>10</td>
+      <td>2</td>
+      <td>11</td>
+      <td>216</td>
+      <td>226</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2</td>
+      <td>Runninsonofagun</td>
+      <td>Toscano John T Jr</td>
+      <td>Carmouche K</td>
+      <td>0</td>
+      <td>20</td>
+      <td>74</td>
+      <td>96</td>
+      <td>5</td>
+      <td>0</td>
+      <td>14</td>
+      <td>210</td>
+      <td>219</td>
     </tr>
     <tr>
       <td>7</td>
       <td>7</td>
-      <td>Ukiyo</td>
-      <td>Crichton Rohan</td>
-      <td>Perez E</td>
-      <td>10</td>
-      <td>5</td>
-      <td>46</td>
-      <td>88</td>
+      <td>Outkissed</td>
+      <td>Bailes W Robert</td>
+      <td>Boyce F</td>
+      <td>0</td>
+      <td>20</td>
+      <td>78</td>
+      <td>108</td>
       <td>10</td>
       <td>0</td>
       <td>0</td>
-      <td>160</td>
-      <td>162</td>
+      <td>216</td>
+      <td>219</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>10</td>
+      <td>Life Is Great</td>
+      <td>Klesaris Robert P</td>
+      <td>Cancel E</td>
+      <td>10</td>
+      <td>10</td>
+      <td>76</td>
+      <td>99</td>
+      <td>10</td>
+      <td>1</td>
+      <td>13</td>
+      <td>218</td>
+      <td>218</td>
     </tr>
     <tr>
       <td>8</td>
       <td>8</td>
-      <td>Vexednrelaxed</td>
-      <td>Maker Michael J</td>
-      <td>Alvarado J</td>
+      <td>Scaramouche</td>
+      <td>Preciado Guadalupe</td>
+      <td>McCarthy T</td>
+      <td>0</td>
+      <td>20</td>
+      <td>63</td>
+      <td>100</td>
+      <td>10</td>
+      <td>0</td>
+      <td>10</td>
+      <td>204</td>
+      <td>204</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>4</td>
+      <td>Juggler</td>
+      <td>Vazquez Juan C</td>
+      <td>Pennington F</td>
       <td>0</td>
       <td>5</td>
-      <td>50</td>
-      <td>89</td>
+      <td>59</td>
+      <td>90</td>
+      <td>10</td>
       <td>0</td>
       <td>0</td>
+      <td>164</td>
+      <td>174</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3</td>
+      <td>Doctor Jeff</td>
+      <td>Rodriguez Rudy R</td>
+      <td>Lezcano J</td>
+      <td>10</td>
+      <td>20</td>
       <td>0</td>
-      <td>144</td>
-      <td>144</td>
+      <td>0</td>
+      <td>10</td>
+      <td>8</td>
+      <td>9</td>
+      <td>57</td>
+      <td>67</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>9</td>
+      <td>Wit</td>
+      <td>Pletcher Todd A</td>
+      <td>Ortiz J L</td>
+      <td>10</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>10</td>
+      <td>15</td>
+      <td>0</td>
+      <td>55</td>
+      <td>55</td>
     </tr>
   </tbody>
 </table>
