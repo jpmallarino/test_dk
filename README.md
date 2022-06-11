@@ -30,11 +30,27 @@
       <td>20</td>
       <td>75</td>
       <td>103</td>
-      <td>10</td>
+      <td>15</td>
       <td>2</td>
       <td>13</td>
-      <td>233</td>
-      <td>234</td>
+      <td>238</td>
+      <td>239</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>4</td>
+      <td>Safalow's Mission</td>
+      <td>Rice Linda</td>
+      <td>Lezcano J</td>
+      <td>10</td>
+      <td>10</td>
+      <td>67</td>
+      <td>95</td>
+      <td>15</td>
+      <td>10</td>
+      <td>10</td>
+      <td>217</td>
+      <td>227</td>
     </tr>
     <tr>
       <td>6</td>
@@ -51,22 +67,6 @@
       <td>5</td>
       <td>216</td>
       <td>223</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>4</td>
-      <td>Safalow's Mission</td>
-      <td>Rice Linda</td>
-      <td>Lezcano J</td>
-      <td>10</td>
-      <td>10</td>
-      <td>67</td>
-      <td>95</td>
-      <td>10</td>
-      <td>10</td>
-      <td>10</td>
-      <td>212</td>
-      <td>222</td>
     </tr>
     <tr>
       <td>7</td>
@@ -220,6 +220,22 @@
       <td>239</td>
     </tr>
     <tr>
+      <td>2</td>
+      <td>3</td>
+      <td>Set Sail</td>
+      <td>Mott William I</td>
+      <td>Rosario J</td>
+      <td>0</td>
+      <td>10</td>
+      <td>82</td>
+      <td>95</td>
+      <td>15</td>
+      <td>10</td>
+      <td>13</td>
+      <td>225</td>
+      <td>235</td>
+    </tr>
+    <tr>
       <td>1</td>
       <td>2</td>
       <td>Uncle Moonlight</td>
@@ -249,22 +265,6 @@
       <td>6</td>
       <td>7</td>
       <td>221</td>
-      <td>230</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>3</td>
-      <td>Set Sail</td>
-      <td>Mott William I</td>
-      <td>Rosario J</td>
-      <td>0</td>
-      <td>10</td>
-      <td>82</td>
-      <td>95</td>
-      <td>10</td>
-      <td>10</td>
-      <td>13</td>
-      <td>220</td>
       <td>230</td>
     </tr>
     <tr>
@@ -309,11 +309,11 @@
       <td>10</td>
       <td>78</td>
       <td>96</td>
-      <td>10</td>
+      <td>15</td>
       <td>15</td>
       <td>11</td>
-      <td>220</td>
-      <td>220</td>
+      <td>225</td>
+      <td>225</td>
     </tr>
   </tbody>
 </table>
@@ -348,9 +348,25 @@
       <td>20</td>
       <td>93</td>
       <td>104</td>
-      <td>0</td>
+      <td>15</td>
       <td>6</td>
       <td>11</td>
+      <td>259</td>
+      <td>269</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>5</td>
+      <td>Echo Zulu</td>
+      <td>Asmussen Steven M</td>
+      <td>Rosario J</td>
+      <td>10</td>
+      <td>20</td>
+      <td>89</td>
+      <td>98</td>
+      <td>15</td>
+      <td>0</td>
+      <td>13</td>
       <td>244</td>
       <td>254</td>
     </tr>
@@ -371,22 +387,6 @@
       <td>246</td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>5</td>
-      <td>Echo Zulu</td>
-      <td>Asmussen Steven M</td>
-      <td>Rosario J</td>
-      <td>10</td>
-      <td>20</td>
-      <td>89</td>
-      <td>98</td>
-      <td>0</td>
-      <td>0</td>
-      <td>13</td>
-      <td>229</td>
-      <td>239</td>
-    </tr>
-    <tr>
       <td>3</td>
       <td>3</td>
       <td>Divine Huntress</td>
@@ -396,11 +396,11 @@
       <td>10</td>
       <td>73</td>
       <td>88</td>
-      <td>5</td>
+      <td>15</td>
       <td>4</td>
       <td>7</td>
-      <td>198</td>
       <td>208</td>
+      <td>218</td>
     </tr>
     <tr>
       <td>1</td>
@@ -412,11 +412,11 @@
       <td>5</td>
       <td>73</td>
       <td>90</td>
+      <td>15</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>178</td>
-      <td>188</td>
+      <td>193</td>
+      <td>203</td>
     </tr>
   </tbody>
 </table>
@@ -451,27 +451,11 @@
       <td>20</td>
       <td>104</td>
       <td>107</td>
-      <td>0</td>
+      <td>15</td>
       <td>16</td>
       <td>9</td>
-      <td>267</td>
-      <td>277</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>4</td>
-      <td>In Italian</td>
-      <td>Brown Chad C</td>
-      <td>Ortiz I Jr</td>
-      <td>10</td>
-      <td>20</td>
-      <td>92</td>
-      <td>98</td>
-      <td>10</td>
-      <td>16</td>
-      <td>16</td>
-      <td>262</td>
-      <td>272</td>
+      <td>282</td>
+      <td>292</td>
     </tr>
     <tr>
       <td>3</td>
@@ -483,11 +467,27 @@
       <td>20</td>
       <td>98</td>
       <td>100</td>
-      <td>0</td>
+      <td>15</td>
       <td>16</td>
       <td>11</td>
-      <td>256</td>
-      <td>265</td>
+      <td>270</td>
+      <td>280</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>4</td>
+      <td>In Italian</td>
+      <td>Brown Chad C</td>
+      <td>Ortiz I Jr</td>
+      <td>10</td>
+      <td>20</td>
+      <td>92</td>
+      <td>98</td>
+      <td>15</td>
+      <td>16</td>
+      <td>16</td>
+      <td>268</td>
+      <td>277</td>
     </tr>
     <tr>
       <td>5</td>
@@ -499,11 +499,11 @@
       <td>20</td>
       <td>88</td>
       <td>96</td>
-      <td>0</td>
+      <td>15</td>
       <td>10</td>
       <td>13</td>
-      <td>227</td>
-      <td>236</td>
+      <td>242</td>
+      <td>251</td>
     </tr>
     <tr>
       <td>1</td>
@@ -515,11 +515,11 @@
       <td>20</td>
       <td>90</td>
       <td>101</td>
+      <td>15</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>220</td>
-      <td>230</td>
+      <td>236</td>
+      <td>245</td>
     </tr>
   </tbody>
 </table>
@@ -554,27 +554,11 @@
       <td>20</td>
       <td>98</td>
       <td>104</td>
-      <td>0</td>
+      <td>15</td>
       <td>6</td>
       <td>11</td>
-      <td>250</td>
-      <td>260</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>5</td>
-      <td>First Constitution</td>
-      <td>Pletcher Todd A</td>
-      <td>Lezcano J</td>
-      <td>0</td>
-      <td>20</td>
-      <td>90</td>
-      <td>104</td>
-      <td>5</td>
-      <td>15</td>
-      <td>10</td>
-      <td>244</td>
-      <td>253</td>
+      <td>265</td>
+      <td>275</td>
     </tr>
     <tr>
       <td>7</td>
@@ -586,10 +570,42 @@
       <td>20</td>
       <td>97</td>
       <td>101</td>
-      <td>0</td>
+      <td>15</td>
       <td>15</td>
       <td>7</td>
-      <td>249</td>
+      <td>264</td>
+      <td>267</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>5</td>
+      <td>First Constitution</td>
+      <td>Pletcher Todd A</td>
+      <td>Lezcano J</td>
+      <td>0</td>
+      <td>20</td>
+      <td>90</td>
+      <td>104</td>
+      <td>15</td>
+      <td>15</td>
+      <td>10</td>
+      <td>254</td>
+      <td>263</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>Lone Rock</td>
+      <td>Diodoro Robertino</td>
+      <td>Vazquez R A</td>
+      <td>10</td>
+      <td>20</td>
+      <td>93</td>
+      <td>104</td>
+      <td>15</td>
+      <td>0</td>
+      <td>0</td>
+      <td>242</td>
       <td>252</td>
     </tr>
     <tr>
@@ -602,27 +618,11 @@
       <td>10</td>
       <td>87</td>
       <td>98</td>
-      <td>5</td>
+      <td>15</td>
       <td>15</td>
       <td>16</td>
-      <td>231</td>
       <td>241</td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>1</td>
-      <td>Lone Rock</td>
-      <td>Diodoro Robertino</td>
-      <td>Vazquez R A</td>
-      <td>10</td>
-      <td>20</td>
-      <td>93</td>
-      <td>104</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>227</td>
-      <td>237</td>
+      <td>251</td>
     </tr>
     <tr>
       <td>2</td>
@@ -634,11 +634,11 @@
       <td>10</td>
       <td>86</td>
       <td>94</td>
-      <td>0</td>
+      <td>15</td>
       <td>0</td>
       <td>9</td>
-      <td>209</td>
-      <td>219</td>
+      <td>224</td>
+      <td>234</td>
     </tr>
     <tr>
       <td>6</td>
@@ -650,11 +650,11 @@
       <td>10</td>
       <td>85</td>
       <td>93</td>
-      <td>5</td>
+      <td>15</td>
       <td>5</td>
       <td>9</td>
-      <td>208</td>
-      <td>215</td>
+      <td>218</td>
+      <td>225</td>
     </tr>
   </tbody>
 </table>
@@ -689,11 +689,11 @@
       <td>20</td>
       <td>98</td>
       <td>103</td>
-      <td>10</td>
+      <td>15</td>
       <td>16</td>
       <td>9</td>
-      <td>267</td>
-      <td>277</td>
+      <td>272</td>
+      <td>282</td>
     </tr>
     <tr>
       <td>3</td>
@@ -705,11 +705,11 @@
       <td>20</td>
       <td>90</td>
       <td>97</td>
-      <td>0</td>
+      <td>15</td>
       <td>15</td>
       <td>16</td>
-      <td>248</td>
-      <td>258</td>
+      <td>263</td>
+      <td>273</td>
     </tr>
     <tr>
       <td>6</td>
@@ -721,27 +721,11 @@
       <td>20</td>
       <td>88</td>
       <td>104</td>
-      <td>10</td>
+      <td>15</td>
       <td>15</td>
       <td>7</td>
-      <td>244</td>
-      <td>251</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>4</td>
-      <td>Morello</td>
-      <td>Asmussen Steven M</td>
-      <td>Rosario J</td>
-      <td>10</td>
-      <td>20</td>
-      <td>80</td>
-      <td>96</td>
-      <td>10</td>
-      <td>0</td>
-      <td>13</td>
-      <td>228</td>
-      <td>238</td>
+      <td>249</td>
+      <td>256</td>
     </tr>
     <tr>
       <td>2</td>
@@ -753,11 +737,27 @@
       <td>20</td>
       <td>85</td>
       <td>93</td>
-      <td>0</td>
+      <td>15</td>
       <td>8</td>
       <td>11</td>
-      <td>228</td>
-      <td>238</td>
+      <td>243</td>
+      <td>253</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>4</td>
+      <td>Morello</td>
+      <td>Asmussen Steven M</td>
+      <td>Rosario J</td>
+      <td>10</td>
+      <td>20</td>
+      <td>80</td>
+      <td>96</td>
+      <td>15</td>
+      <td>0</td>
+      <td>13</td>
+      <td>233</td>
+      <td>243</td>
     </tr>
     <tr>
       <td>5</td>
@@ -769,11 +769,11 @@
       <td>20</td>
       <td>77</td>
       <td>90</td>
-      <td>5</td>
+      <td>15</td>
       <td>0</td>
       <td>0</td>
-      <td>192</td>
       <td>202</td>
+      <td>212</td>
     </tr>
   </tbody>
 </table>
@@ -808,11 +808,11 @@
       <td>20</td>
       <td>98</td>
       <td>108</td>
-      <td>5</td>
+      <td>15</td>
       <td>0</td>
       <td>13</td>
-      <td>254</td>
       <td>264</td>
+      <td>274</td>
     </tr>
     <tr>
       <td>5</td>
@@ -824,11 +824,11 @@
       <td>20</td>
       <td>84</td>
       <td>99</td>
-      <td>0</td>
+      <td>15</td>
       <td>16</td>
       <td>16</td>
-      <td>245</td>
-      <td>255</td>
+      <td>260</td>
+      <td>270</td>
     </tr>
     <tr>
       <td>1</td>
@@ -840,11 +840,11 @@
       <td>20</td>
       <td>100</td>
       <td>106</td>
-      <td>0</td>
+      <td>15</td>
       <td>0</td>
       <td>9</td>
-      <td>244</td>
-      <td>254</td>
+      <td>259</td>
+      <td>269</td>
     </tr>
     <tr>
       <td>3</td>
@@ -856,11 +856,11 @@
       <td>20</td>
       <td>88</td>
       <td>104</td>
-      <td>0</td>
+      <td>15</td>
       <td>15</td>
       <td>5</td>
-      <td>242</td>
-      <td>252</td>
+      <td>257</td>
+      <td>267</td>
     </tr>
     <tr>
       <td>2</td>
@@ -872,11 +872,11 @@
       <td>20</td>
       <td>87</td>
       <td>103</td>
-      <td>0</td>
+      <td>15</td>
       <td>6</td>
       <td>11</td>
-      <td>227</td>
-      <td>237</td>
+      <td>242</td>
+      <td>252</td>
     </tr>
   </tbody>
 </table>
@@ -911,11 +911,11 @@
       <td>20</td>
       <td>96</td>
       <td>100</td>
-      <td>0</td>
+      <td>15</td>
       <td>11</td>
       <td>16</td>
-      <td>253</td>
-      <td>263</td>
+      <td>268</td>
+      <td>278</td>
     </tr>
     <tr>
       <td>8</td>
@@ -927,11 +927,11 @@
       <td>20</td>
       <td>101</td>
       <td>104</td>
-      <td>5</td>
+      <td>15</td>
       <td>8</td>
       <td>6</td>
-      <td>244</td>
-      <td>245</td>
+      <td>254</td>
+      <td>255</td>
     </tr>
     <tr>
       <td>1</td>
@@ -943,27 +943,11 @@
       <td>20</td>
       <td>88</td>
       <td>97</td>
-      <td>0</td>
-      <td>0</td>
-      <td>13</td>
-      <td>228</td>
-      <td>238</td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>13</td>
-      <td>Gregorian Chant</td>
-      <td>D'Amato Philip</td>
-      <td>Rosario J</td>
-      <td>0</td>
-      <td>20</td>
-      <td>94</td>
-      <td>99</td>
-      <td>5</td>
+      <td>15</td>
       <td>0</td>
       <td>13</td>
-      <td>231</td>
-      <td>231</td>
+      <td>243</td>
+      <td>253</td>
     </tr>
     <tr>
       <td>3</td>
@@ -975,11 +959,11 @@
       <td>20</td>
       <td>90</td>
       <td>103</td>
-      <td>0</td>
+      <td>15</td>
       <td>4</td>
       <td>0</td>
-      <td>217</td>
-      <td>227</td>
+      <td>232</td>
+      <td>242</td>
     </tr>
     <tr>
       <td>12</td>
@@ -991,27 +975,27 @@
       <td>20</td>
       <td>90</td>
       <td>97</td>
-      <td>0</td>
+      <td>15</td>
       <td>0</td>
       <td>10</td>
-      <td>227</td>
-      <td>227</td>
+      <td>242</td>
+      <td>242</td>
     </tr>
     <tr>
-      <td>11</td>
-      <td>11</td>
-      <td>Chasing Artie</td>
-      <td>Joseph Saffie A Jr</td>
-      <td>Velazquez J R</td>
+      <td>13</td>
+      <td>13</td>
+      <td>Gregorian Chant</td>
+      <td>D'Amato Philip</td>
+      <td>Rosario J</td>
       <td>0</td>
       <td>20</td>
-      <td>83</td>
-      <td>98</td>
-      <td>5</td>
-      <td>7</td>
-      <td>5</td>
-      <td>218</td>
-      <td>218</td>
+      <td>94</td>
+      <td>99</td>
+      <td>15</td>
+      <td>0</td>
+      <td>13</td>
+      <td>241</td>
+      <td>241</td>
     </tr>
     <tr>
       <td>10</td>
@@ -1023,11 +1007,27 @@
       <td>20</td>
       <td>94</td>
       <td>98</td>
-      <td>0</td>
+      <td>15</td>
       <td>0</td>
       <td>3</td>
-      <td>215</td>
-      <td>215</td>
+      <td>230</td>
+      <td>230</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>11</td>
+      <td>Chasing Artie</td>
+      <td>Joseph Saffie A Jr</td>
+      <td>Velazquez J R</td>
+      <td>0</td>
+      <td>20</td>
+      <td>83</td>
+      <td>98</td>
+      <td>15</td>
+      <td>7</td>
+      <td>5</td>
+      <td>228</td>
+      <td>228</td>
     </tr>
     <tr>
       <td>7</td>
@@ -1039,11 +1039,11 @@
       <td>10</td>
       <td>84</td>
       <td>94</td>
-      <td>5</td>
+      <td>15</td>
       <td>0</td>
       <td>11</td>
-      <td>204</td>
-      <td>207</td>
+      <td>214</td>
+      <td>217</td>
     </tr>
     <tr>
       <td>6</td>
@@ -1055,11 +1055,11 @@
       <td>0</td>
       <td>90</td>
       <td>101</td>
+      <td>15</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>191</td>
-      <td>198</td>
+      <td>206</td>
+      <td>213</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1071,11 +1071,11 @@
       <td>0</td>
       <td>83</td>
       <td>98</td>
-      <td>5</td>
+      <td>15</td>
       <td>0</td>
       <td>0</td>
-      <td>185</td>
       <td>195</td>
+      <td>205</td>
     </tr>
     <tr>
       <td>9</td>
@@ -1087,11 +1087,11 @@
       <td>20</td>
       <td>63</td>
       <td>88</td>
-      <td>0</td>
+      <td>15</td>
       <td>8</td>
       <td>9</td>
-      <td>188</td>
-      <td>189</td>
+      <td>204</td>
+      <td>204</td>
     </tr>
     <tr>
       <td>4</td>
@@ -1103,11 +1103,11 @@
       <td>20</td>
       <td>116</td>
       <td>0</td>
-      <td>0</td>
+      <td>15</td>
       <td>10</td>
       <td>7</td>
-      <td>164</td>
-      <td>174</td>
+      <td>179</td>
+      <td>189</td>
     </tr>
   </tbody>
 </table>
@@ -1142,11 +1142,11 @@
       <td>20</td>
       <td>99</td>
       <td>102</td>
-      <td>0</td>
+      <td>15</td>
       <td>15</td>
       <td>16</td>
-      <td>262</td>
-      <td>272</td>
+      <td>277</td>
+      <td>287</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1158,11 +1158,11 @@
       <td>20</td>
       <td>110</td>
       <td>108</td>
-      <td>0</td>
+      <td>15</td>
       <td>10</td>
       <td>3</td>
-      <td>261</td>
-      <td>271</td>
+      <td>276</td>
+      <td>286</td>
     </tr>
     <tr>
       <td>3</td>
@@ -1174,11 +1174,11 @@
       <td>20</td>
       <td>95</td>
       <td>95</td>
-      <td>5</td>
+      <td>15</td>
       <td>0</td>
       <td>9</td>
-      <td>234</td>
       <td>244</td>
+      <td>254</td>
     </tr>
     <tr>
       <td>5</td>
@@ -1190,11 +1190,11 @@
       <td>0</td>
       <td>75</td>
       <td>94</td>
+      <td>15</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>169</td>
-      <td>179</td>
+      <td>184</td>
+      <td>194</td>
     </tr>
     <tr>
       <td>1</td>
@@ -1206,11 +1206,11 @@
       <td>20</td>
       <td>0</td>
       <td>0</td>
-      <td>10</td>
+      <td>15</td>
       <td>0</td>
       <td>11</td>
-      <td>51</td>
-      <td>61</td>
+      <td>56</td>
+      <td>66</td>
     </tr>
   </tbody>
 </table>
@@ -1245,11 +1245,11 @@
       <td>20</td>
       <td>102</td>
       <td>97</td>
-      <td>0</td>
+      <td>15</td>
       <td>13</td>
       <td>13</td>
-      <td>255</td>
-      <td>265</td>
+      <td>270</td>
+      <td>280</td>
     </tr>
     <tr>
       <td>5</td>
@@ -1261,11 +1261,11 @@
       <td>20</td>
       <td>98</td>
       <td>105</td>
+      <td>15</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>233</td>
-      <td>243</td>
+      <td>248</td>
+      <td>258</td>
     </tr>
     <tr>
       <td>7</td>
@@ -1277,11 +1277,11 @@
       <td>20</td>
       <td>82</td>
       <td>97</td>
-      <td>0</td>
+      <td>15</td>
       <td>16</td>
       <td>13</td>
-      <td>238</td>
-      <td>241</td>
+      <td>253</td>
+      <td>256</td>
     </tr>
     <tr>
       <td>4</td>
@@ -1293,11 +1293,11 @@
       <td>10</td>
       <td>92</td>
       <td>98</td>
-      <td>0</td>
+      <td>15</td>
       <td>16</td>
       <td>11</td>
-      <td>228</td>
-      <td>238</td>
+      <td>244</td>
+      <td>253</td>
     </tr>
     <tr>
       <td>9</td>
@@ -1309,11 +1309,11 @@
       <td>20</td>
       <td>98</td>
       <td>101</td>
-      <td>0</td>
+      <td>15</td>
       <td>1</td>
       <td>0</td>
-      <td>230</td>
-      <td>230</td>
+      <td>245</td>
+      <td>245</td>
     </tr>
     <tr>
       <td>10</td>
@@ -1325,11 +1325,11 @@
       <td>5</td>
       <td>98</td>
       <td>109</td>
-      <td>0</td>
+      <td>15</td>
       <td>10</td>
       <td>7</td>
-      <td>230</td>
-      <td>230</td>
+      <td>245</td>
+      <td>245</td>
     </tr>
     <tr>
       <td>8</td>
@@ -1341,11 +1341,11 @@
       <td>10</td>
       <td>94</td>
       <td>100</td>
-      <td>5</td>
+      <td>15</td>
       <td>4</td>
       <td>5</td>
-      <td>220</td>
-      <td>220</td>
+      <td>230</td>
+      <td>230</td>
     </tr>
     <tr>
       <td>1</td>
@@ -1357,11 +1357,11 @@
       <td>20</td>
       <td>99</td>
       <td>0</td>
-      <td>5</td>
+      <td>15</td>
       <td>16</td>
       <td>7</td>
-      <td>147</td>
       <td>157</td>
+      <td>167</td>
     </tr>
     <tr>
       <td>6</td>
@@ -1373,11 +1373,11 @@
       <td>10</td>
       <td>18</td>
       <td>0</td>
-      <td>0</td>
+      <td>15</td>
       <td>16</td>
       <td>16</td>
-      <td>60</td>
-      <td>68</td>
+      <td>76</td>
+      <td>83</td>
     </tr>
     <tr>
       <td>3</td>
@@ -1389,11 +1389,11 @@
       <td>20</td>
       <td>0</td>
       <td>0</td>
+      <td>15</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>20</td>
-      <td>30</td>
+      <td>35</td>
+      <td>45</td>
     </tr>
   </tbody>
 </table>
@@ -1428,11 +1428,11 @@
       <td>20</td>
       <td>96</td>
       <td>101</td>
-      <td>0</td>
+      <td>15</td>
       <td>15</td>
       <td>16</td>
-      <td>258</td>
-      <td>265</td>
+      <td>273</td>
+      <td>280</td>
     </tr>
     <tr>
       <td>3</td>
@@ -1444,27 +1444,11 @@
       <td>20</td>
       <td>88</td>
       <td>100</td>
-      <td>0</td>
+      <td>15</td>
       <td>15</td>
       <td>9</td>
-      <td>242</td>
-      <td>252</td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>1</td>
-      <td>We the People</td>
-      <td>Brisset Rodolphe</td>
-      <td>Prat F</td>
-      <td>0</td>
-      <td>20</td>
-      <td>87</td>
-      <td>97</td>
-      <td>10</td>
-      <td>4</td>
-      <td>11</td>
-      <td>229</td>
-      <td>239</td>
+      <td>257</td>
+      <td>267</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1476,27 +1460,27 @@
       <td>10</td>
       <td>91</td>
       <td>101</td>
-      <td>5</td>
+      <td>15</td>
       <td>7</td>
       <td>13</td>
-      <td>226</td>
       <td>236</td>
+      <td>246</td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>5</td>
-      <td>Creative Minister</td>
-      <td>McPeek Kenneth G</td>
-      <td>Hernandez B J Jr</td>
+      <td>1</td>
+      <td>1</td>
+      <td>We the People</td>
+      <td>Brisset Rodolphe</td>
+      <td>Prat F</td>
       <td>0</td>
       <td>20</td>
-      <td>89</td>
-      <td>100</td>
-      <td>10</td>
-      <td>0</td>
-      <td>0</td>
-      <td>218</td>
-      <td>228</td>
+      <td>87</td>
+      <td>97</td>
+      <td>15</td>
+      <td>4</td>
+      <td>11</td>
+      <td>234</td>
+      <td>244</td>
     </tr>
     <tr>
       <td>8</td>
@@ -1508,11 +1492,27 @@
       <td>20</td>
       <td>88</td>
       <td>94</td>
-      <td>0</td>
+      <td>15</td>
       <td>0</td>
       <td>13</td>
-      <td>225</td>
-      <td>226</td>
+      <td>240</td>
+      <td>241</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>5</td>
+      <td>Creative Minister</td>
+      <td>McPeek Kenneth G</td>
+      <td>Hernandez B J Jr</td>
+      <td>0</td>
+      <td>20</td>
+      <td>89</td>
+      <td>100</td>
+      <td>15</td>
+      <td>0</td>
+      <td>0</td>
+      <td>223</td>
+      <td>233</td>
     </tr>
     <tr>
       <td>7</td>
@@ -1524,11 +1524,11 @@
       <td>20</td>
       <td>83</td>
       <td>93</td>
-      <td>0</td>
+      <td>15</td>
       <td>8</td>
       <td>9</td>
-      <td>214</td>
-      <td>216</td>
+      <td>229</td>
+      <td>231</td>
     </tr>
     <tr>
       <td>4</td>
@@ -1540,11 +1540,11 @@
       <td>5</td>
       <td>87</td>
       <td>100</td>
+      <td>15</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>202</td>
-      <td>212</td>
+      <td>217</td>
+      <td>227</td>
     </tr>
   </tbody>
 </table>
@@ -1801,6 +1801,22 @@
       <td>233</td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>Solib</td>
+      <td>Rodriguez Rudy R</td>
+      <td>Lezcano J</td>
+      <td>0</td>
+      <td>10</td>
+      <td>66</td>
+      <td>103</td>
+      <td>15</td>
+      <td>8</td>
+      <td>10</td>
+      <td>212</td>
+      <td>222</td>
+    </tr>
+    <tr>
       <td>6</td>
       <td>6</td>
       <td>Fontanafredda</td>
@@ -1815,22 +1831,6 @@
       <td>7</td>
       <td>211</td>
       <td>219</td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>1</td>
-      <td>Solib</td>
-      <td>Rodriguez Rudy R</td>
-      <td>Lezcano J</td>
-      <td>0</td>
-      <td>10</td>
-      <td>66</td>
-      <td>103</td>
-      <td>10</td>
-      <td>8</td>
-      <td>10</td>
-      <td>207</td>
-      <td>217</td>
     </tr>
     <tr>
       <td>12</td>
@@ -1881,6 +1881,22 @@
       <td>204</td>
     </tr>
     <tr>
+      <td>2</td>
+      <td>2</td>
+      <td>Flip My Id</td>
+      <td>Maker Michael J</td>
+      <td>Ortiz I Jr</td>
+      <td>0</td>
+      <td>0</td>
+      <td>57</td>
+      <td>94</td>
+      <td>15</td>
+      <td>8</td>
+      <td>16</td>
+      <td>190</td>
+      <td>200</td>
+    </tr>
+    <tr>
       <td>15</td>
       <td>15</td>
       <td>New York Banker</td>
@@ -1929,20 +1945,20 @@
       <td>185</td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>2</td>
-      <td>Flip My Id</td>
-      <td>Maker Michael J</td>
-      <td>Ortiz I Jr</td>
-      <td>0</td>
-      <td>0</td>
-      <td>57</td>
-      <td>94</td>
-      <td>0</td>
-      <td>8</td>
       <td>16</td>
-      <td>175</td>
-      <td>185</td>
+      <td>16</td>
+      <td>True Empress</td>
+      <td>Weaver George</td>
+      <td>Cancel E</td>
+      <td>0</td>
+      <td>5</td>
+      <td>57</td>
+      <td>92</td>
+      <td>15</td>
+      <td>5</td>
+      <td>7</td>
+      <td>181</td>
+      <td>181</td>
     </tr>
     <tr>
       <td>3</td>
@@ -1977,20 +1993,20 @@
       <td>177</td>
     </tr>
     <tr>
-      <td>16</td>
-      <td>16</td>
-      <td>True Empress</td>
-      <td>Weaver George</td>
-      <td>Cancel E</td>
+      <td>8</td>
+      <td>8</td>
+      <td>Dufresne</td>
+      <td>Trombetta Michael J</td>
+      <td>Velazquez J R</td>
+      <td>10</td>
+      <td>0</td>
+      <td>53</td>
+      <td>90</td>
+      <td>15</td>
       <td>0</td>
       <td>5</td>
-      <td>57</td>
-      <td>92</td>
-      <td>10</td>
-      <td>5</td>
-      <td>7</td>
-      <td>176</td>
-      <td>176</td>
+      <td>173</td>
+      <td>173</td>
     </tr>
     <tr>
       <td>11</td>
@@ -2007,22 +2023,6 @@
       <td>9</td>
       <td>168</td>
       <td>168</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>8</td>
-      <td>Dufresne</td>
-      <td>Trombetta Michael J</td>
-      <td>Velazquez J R</td>
-      <td>10</td>
-      <td>0</td>
-      <td>53</td>
-      <td>90</td>
-      <td>0</td>
-      <td>0</td>
-      <td>5</td>
-      <td>158</td>
-      <td>158</td>
     </tr>
     <tr>
       <td>9</td>
