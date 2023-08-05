@@ -37,6 +37,22 @@
       <td>45</td>
     </tr>
     <tr>
+      <td>9</td>
+      <td>9</td>
+      <td>Trade Imbalance</td>
+      <td>Brown Chad C</td>
+      <td>Ortiz I Jr</td>
+      <td>0</td>
+      <td>0</td>
+      <td>8</td>
+      <td>8</td>
+      <td>14</td>
+      <td>0</td>
+      <td>0</td>
+      <td>31</td>
+      <td>31</td>
+    </tr>
+    <tr>
       <td>4</td>
       <td>4</td>
       <td>Agate Road</td>
@@ -69,20 +85,20 @@
       <td>33</td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>9</td>
-      <td>Trade Imbalance</td>
+      <td>7</td>
+      <td>7</td>
+      <td>Walley World</td>
       <td>Brown Chad C</td>
-      <td>Ortiz I Jr</td>
+      <td>Franco M</td>
       <td>0</td>
       <td>0</td>
       <td>8</td>
-      <td>8</td>
-      <td>14</td>
+      <td>0</td>
+      <td>12</td>
       <td>0</td>
       <td>0</td>
-      <td>31</td>
-      <td>31</td>
+      <td>20</td>
+      <td>23</td>
     </tr>
     <tr>
       <td>2</td>
@@ -115,22 +131,6 @@
       <td>10</td>
       <td>16</td>
       <td>26</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>7</td>
-      <td>Walley World</td>
-      <td>Brown Chad C</td>
-      <td>Franco M</td>
-      <td>0</td>
-      <td>0</td>
-      <td>8</td>
-      <td>0</td>
-      <td>12</td>
-      <td>0</td>
-      <td>0</td>
-      <td>20</td>
-      <td>23</td>
     </tr>
     <tr>
       <td>6</td>
@@ -204,38 +204,6 @@
       <td>48</td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>1</td>
-      <td>Be You</td>
-      <td>Pletcher Todd A</td>
-      <td>Ortiz I Jr</td>
-      <td>0</td>
-      <td>0</td>
-      <td>9</td>
-      <td>8</td>
-      <td>14</td>
-      <td>0</td>
-      <td>0</td>
-      <td>31</td>
-      <td>41</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>5</td>
-      <td>Domestic Product</td>
-      <td>Brown Chad C</td>
-      <td>Prat F</td>
-      <td>0</td>
-      <td>0</td>
-      <td>8</td>
-      <td>9</td>
-      <td>14</td>
-      <td>0</td>
-      <td>0</td>
-      <td>32</td>
-      <td>41</td>
-    </tr>
-    <tr>
       <td>11</td>
       <td>11</td>
       <td>Just Steel</td>
@@ -268,20 +236,36 @@
       <td>32</td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>4</td>
-      <td>Locked</td>
+      <td>5</td>
+      <td>5</td>
+      <td>Domestic Product</td>
+      <td>Brown Chad C</td>
+      <td>Prat F</td>
+      <td>0</td>
+      <td>0</td>
+      <td>8</td>
+      <td>9</td>
+      <td>14</td>
+      <td>0</td>
+      <td>0</td>
+      <td>32</td>
+      <td>41</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>Be You</td>
       <td>Pletcher Todd A</td>
-      <td>Ortiz J L</td>
+      <td>Ortiz I Jr</td>
       <td>0</td>
       <td>0</td>
       <td>9</td>
-      <td>6</td>
-      <td>6</td>
+      <td>8</td>
+      <td>14</td>
       <td>0</td>
       <td>0</td>
-      <td>21</td>
       <td>31</td>
+      <td>41</td>
     </tr>
     <tr>
       <td>9</td>
@@ -300,6 +284,22 @@
       <td>27</td>
     </tr>
     <tr>
+      <td>4</td>
+      <td>4</td>
+      <td>Locked</td>
+      <td>Pletcher Todd A</td>
+      <td>Ortiz J L</td>
+      <td>0</td>
+      <td>0</td>
+      <td>9</td>
+      <td>6</td>
+      <td>6</td>
+      <td>0</td>
+      <td>0</td>
+      <td>21</td>
+      <td>31</td>
+    </tr>
+    <tr>
       <td>2</td>
       <td>2</td>
       <td>Hamilton's Way</td>
@@ -314,6 +314,22 @@
       <td>0</td>
       <td>16</td>
       <td>26</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>8</td>
+      <td>Badlands Ruler</td>
+      <td>Brown Bruce R</td>
+      <td>Saez L</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>4</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>6</td>
+      <td>7</td>
     </tr>
     <tr>
       <td>3</td>
@@ -347,22 +363,6 @@
       <td>0</td>
       <td>7</td>
     </tr>
-    <tr>
-      <td>8</td>
-      <td>8</td>
-      <td>Badlands Ruler</td>
-      <td>Brown Bruce R</td>
-      <td>Saez L</td>
-      <td>0</td>
-      <td>0</td>
-      <td>2</td>
-      <td>4</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>6</td>
-      <td>7</td>
-    </tr>
   </tbody>
 </table>
 ## Race: 3 / Class: Clm 20000 / Distance: 7.0 / Surface: Dirt
@@ -386,6 +386,22 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>6</td>
+      <td>6</td>
+      <td>Glory Road</td>
+      <td>Rodriguez Rudy R</td>
+      <td>Lezcano J</td>
+      <td>4</td>
+      <td>5</td>
+      <td>7</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>7</td>
+      <td>25</td>
+      <td>32</td>
+    </tr>
     <tr>
       <td>5</td>
       <td>5</td>
@@ -417,22 +433,6 @@
       <td>5</td>
       <td>23</td>
       <td>33</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>6</td>
-      <td>Glory Road</td>
-      <td>Rodriguez Rudy R</td>
-      <td>Lezcano J</td>
-      <td>4</td>
-      <td>5</td>
-      <td>7</td>
-      <td>2</td>
-      <td>0</td>
-      <td>0</td>
-      <td>7</td>
-      <td>25</td>
-      <td>32</td>
     </tr>
     <tr>
       <td>2</td>
@@ -467,22 +467,6 @@
       <td>29</td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>3</td>
-      <td>Beachwalker</td>
-      <td>Guerrero Juan Carlos</td>
-      <td>Torres J A</td>
-      <td>4</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0</td>
-      <td>2</td>
-      <td>0</td>
-      <td>5</td>
-      <td>15</td>
-      <td>25</td>
-    </tr>
-    <tr>
       <td>7</td>
       <td>7</td>
       <td>Dontbelate</td>
@@ -513,6 +497,22 @@
       <td>6</td>
       <td>16</td>
       <td>16</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3</td>
+      <td>Beachwalker</td>
+      <td>Guerrero Juan Carlos</td>
+      <td>Torres J A</td>
+      <td>4</td>
+      <td>5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>0</td>
+      <td>5</td>
+      <td>15</td>
+      <td>25</td>
     </tr>
   </tbody>
 </table>
@@ -586,6 +586,22 @@
       <td>40</td>
     </tr>
     <tr>
+      <td>8</td>
+      <td>8</td>
+      <td>Born Dancer</td>
+      <td>Nevin Michelle</td>
+      <td>Carmouche K</td>
+      <td>4</td>
+      <td>5</td>
+      <td>2</td>
+      <td>5</td>
+      <td>0</td>
+      <td>15</td>
+      <td>3</td>
+      <td>34</td>
+      <td>35</td>
+    </tr>
+    <tr>
       <td>2</td>
       <td>2</td>
       <td>Sonic Speed</td>
@@ -615,22 +631,6 @@
       <td>0</td>
       <td>3</td>
       <td>25</td>
-      <td>35</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>8</td>
-      <td>Born Dancer</td>
-      <td>Nevin Michelle</td>
-      <td>Carmouche K</td>
-      <td>4</td>
-      <td>5</td>
-      <td>2</td>
-      <td>5</td>
-      <td>0</td>
-      <td>15</td>
-      <td>3</td>
-      <td>34</td>
       <td>35</td>
     </tr>
     <tr>
@@ -769,6 +769,22 @@
       <td>52</td>
     </tr>
     <tr>
+      <td>7</td>
+      <td>7</td>
+      <td>Be the Boss</td>
+      <td>Maker Michael J</td>
+      <td>Gaffalione T</td>
+      <td>4</td>
+      <td>5</td>
+      <td>6</td>
+      <td>9</td>
+      <td>8</td>
+      <td>0</td>
+      <td>4</td>
+      <td>37</td>
+      <td>39</td>
+    </tr>
+    <tr>
       <td>4</td>
       <td>4</td>
       <td>Golden Arm</td>
@@ -783,6 +799,22 @@
       <td>3</td>
       <td>30</td>
       <td>40</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>6</td>
+      <td>Thank You Jon</td>
+      <td>Summers Chad</td>
+      <td>Ortiz I Jr</td>
+      <td>4</td>
+      <td>5</td>
+      <td>0</td>
+      <td>8</td>
+      <td>0</td>
+      <td>10</td>
+      <td>3</td>
+      <td>30</td>
+      <td>37</td>
     </tr>
     <tr>
       <td>2</td>
@@ -801,22 +833,6 @@
       <td>39</td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>7</td>
-      <td>Be the Boss</td>
-      <td>Maker Michael J</td>
-      <td>Gaffalione T</td>
-      <td>4</td>
-      <td>5</td>
-      <td>6</td>
-      <td>9</td>
-      <td>8</td>
-      <td>0</td>
-      <td>4</td>
-      <td>37</td>
-      <td>39</td>
-    </tr>
-    <tr>
       <td>1</td>
       <td>1</td>
       <td>Quick to Accuse</td>
@@ -831,22 +847,6 @@
       <td>5</td>
       <td>28</td>
       <td>38</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>6</td>
-      <td>Thank You Jon</td>
-      <td>Summers Chad</td>
-      <td>Ortiz I Jr</td>
-      <td>4</td>
-      <td>5</td>
-      <td>0</td>
-      <td>8</td>
-      <td>0</td>
-      <td>10</td>
-      <td>3</td>
-      <td>30</td>
-      <td>37</td>
     </tr>
     <tr>
       <td>10</td>
@@ -984,22 +984,6 @@
       <td>45</td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>5</td>
-      <td>Grooms All Bizness</td>
-      <td>Duarte Jorge Jr</td>
-      <td>Davis D</td>
-      <td>4</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>15</td>
-      <td>7</td>
-      <td>31</td>
-      <td>41</td>
-    </tr>
-    <tr>
       <td>6</td>
       <td>6</td>
       <td>Mister Mmmmm</td>
@@ -1014,6 +998,22 @@
       <td>5</td>
       <td>33</td>
       <td>40</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>5</td>
+      <td>Grooms All Bizness</td>
+      <td>Duarte Jorge Jr</td>
+      <td>Davis D</td>
+      <td>4</td>
+      <td>5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>15</td>
+      <td>7</td>
+      <td>31</td>
+      <td>41</td>
     </tr>
     <tr>
       <td>8</td>
@@ -1103,6 +1103,22 @@
       <td>56</td>
     </tr>
     <tr>
+      <td>9</td>
+      <td>9</td>
+      <td>Mid Day Image</td>
+      <td>Jacobson David</td>
+      <td>Ortiz J L</td>
+      <td>5</td>
+      <td>5</td>
+      <td>8</td>
+      <td>6</td>
+      <td>0</td>
+      <td>15</td>
+      <td>6</td>
+      <td>44</td>
+      <td>44</td>
+    </tr>
+    <tr>
       <td>5</td>
       <td>5</td>
       <td>Speaking Scout</td>
@@ -1133,22 +1149,6 @@
       <td>5</td>
       <td>40</td>
       <td>50</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>9</td>
-      <td>Mid Day Image</td>
-      <td>Jacobson David</td>
-      <td>Ortiz J L</td>
-      <td>5</td>
-      <td>5</td>
-      <td>8</td>
-      <td>6</td>
-      <td>0</td>
-      <td>15</td>
-      <td>6</td>
-      <td>44</td>
-      <td>44</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1238,6 +1238,22 @@
   </thead>
   <tbody>
     <tr>
+      <td>7</td>
+      <td>7</td>
+      <td>Munnys Gold</td>
+      <td>Pletcher Todd A</td>
+      <td>Ortiz I Jr</td>
+      <td>4</td>
+      <td>5</td>
+      <td>9</td>
+      <td>8</td>
+      <td>14</td>
+      <td>15</td>
+      <td>8</td>
+      <td>64</td>
+      <td>67</td>
+    </tr>
+    <tr>
       <td>1</td>
       <td>1</td>
       <td>Pretty Mischievous</td>
@@ -1268,22 +1284,6 @@
       <td>5</td>
       <td>61</td>
       <td>70</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>7</td>
-      <td>Munnys Gold</td>
-      <td>Pletcher Todd A</td>
-      <td>Ortiz I Jr</td>
-      <td>4</td>
-      <td>5</td>
-      <td>9</td>
-      <td>8</td>
-      <td>14</td>
-      <td>15</td>
-      <td>8</td>
-      <td>64</td>
-      <td>67</td>
     </tr>
     <tr>
       <td>3</td>
@@ -1318,22 +1318,6 @@
       <td>50</td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>4</td>
-      <td>Jersey Pearl</td>
-      <td>Miller Darrin</td>
-      <td>Saez L</td>
-      <td>4</td>
-      <td>5</td>
-      <td>0</td>
-      <td>4</td>
-      <td>0</td>
-      <td>15</td>
-      <td>7</td>
-      <td>36</td>
-      <td>46</td>
-    </tr>
-    <tr>
       <td>8</td>
       <td>8</td>
       <td>Maple Leaf Mel</td>
@@ -1348,6 +1332,22 @@
       <td>10</td>
       <td>40</td>
       <td>40</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>4</td>
+      <td>Jersey Pearl</td>
+      <td>Miller Darrin</td>
+      <td>Saez L</td>
+      <td>4</td>
+      <td>5</td>
+      <td>0</td>
+      <td>4</td>
+      <td>0</td>
+      <td>15</td>
+      <td>7</td>
+      <td>36</td>
+      <td>46</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1405,22 +1405,6 @@
       <td>71</td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>1</td>
-      <td>Mondego</td>
-      <td>Clement Christophe</td>
-      <td>Rosario J</td>
-      <td>4</td>
-      <td>5</td>
-      <td>5</td>
-      <td>5</td>
-      <td>14</td>
-      <td>15</td>
-      <td>6</td>
-      <td>55</td>
-      <td>65</td>
-    </tr>
-    <tr>
       <td>5</td>
       <td>5</td>
       <td>Far Bridge</td>
@@ -1437,52 +1421,20 @@
       <td>65</td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>6</td>
-      <td>Webslinger</td>
-      <td>Casse Mark</td>
-      <td>Castellano J J</td>
-      <td>5</td>
-      <td>5</td>
-      <td>8</td>
-      <td>0</td>
-      <td>0</td>
-      <td>15</td>
-      <td>6</td>
-      <td>38</td>
-      <td>46</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>7</td>
-      <td>Battle of Normandy</td>
-      <td>McGaughey III Claude R</td>
-      <td>Gaffalione T</td>
-      <td>4</td>
-      <td>5</td>
-      <td>0</td>
-      <td>9</td>
       <td>1</td>
-      <td>15</td>
-      <td>7</td>
-      <td>41</td>
-      <td>44</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>3</td>
-      <td>Aspen Grove</td>
-      <td>Stack James A</td>
-      <td>Velazquez J R</td>
+      <td>1</td>
+      <td>Mondego</td>
+      <td>Clement Christophe</td>
+      <td>Rosario J</td>
       <td>4</td>
       <td>5</td>
-      <td>0</td>
       <td>5</td>
-      <td>0</td>
+      <td>5</td>
+      <td>14</td>
       <td>15</td>
-      <td>3</td>
-      <td>32</td>
-      <td>42</td>
+      <td>6</td>
+      <td>55</td>
+      <td>65</td>
     </tr>
     <tr>
       <td>9</td>
@@ -1501,20 +1453,52 @@
       <td>41</td>
     </tr>
     <tr>
+      <td>7</td>
+      <td>7</td>
+      <td>Battle of Normandy</td>
+      <td>McGaughey III Claude R</td>
+      <td>Gaffalione T</td>
       <td>4</td>
-      <td>4</td>
-      <td>The Franchise</td>
-      <td>O'Brien Joseph P</td>
-      <td>Saez L</td>
-      <td>4</td>
+      <td>5</td>
+      <td>0</td>
+      <td>9</td>
+      <td>1</td>
+      <td>15</td>
+      <td>7</td>
+      <td>41</td>
+      <td>44</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>6</td>
+      <td>Webslinger</td>
+      <td>Casse Mark</td>
+      <td>Castellano J J</td>
+      <td>5</td>
+      <td>5</td>
+      <td>8</td>
       <td>0</td>
       <td>0</td>
+      <td>15</td>
+      <td>6</td>
+      <td>38</td>
+      <td>46</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3</td>
+      <td>Aspen Grove</td>
+      <td>Stack James A</td>
+      <td>Velazquez J R</td>
       <td>4</td>
+      <td>5</td>
       <td>0</td>
+      <td>5</td>
       <td>0</td>
-      <td>4</td>
-      <td>12</td>
-      <td>22</td>
+      <td>15</td>
+      <td>3</td>
+      <td>32</td>
+      <td>42</td>
     </tr>
     <tr>
       <td>8</td>
@@ -1531,6 +1515,22 @@
       <td>5</td>
       <td>17</td>
       <td>18</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>4</td>
+      <td>The Franchise</td>
+      <td>O'Brien Joseph P</td>
+      <td>Saez L</td>
+      <td>4</td>
+      <td>0</td>
+      <td>0</td>
+      <td>4</td>
+      <td>0</td>
+      <td>0</td>
+      <td>4</td>
+      <td>12</td>
+      <td>22</td>
     </tr>
   </tbody>
 </table>
@@ -1707,6 +1707,22 @@
       <td>59</td>
     </tr>
     <tr>
+      <td>8</td>
+      <td>8</td>
+      <td>Bourbon Bash</td>
+      <td>Lukas D Wayne</td>
+      <td>Rosario J</td>
+      <td>4</td>
+      <td>4</td>
+      <td>8</td>
+      <td>5</td>
+      <td>0</td>
+      <td>15</td>
+      <td>4</td>
+      <td>39</td>
+      <td>40</td>
+    </tr>
+    <tr>
       <td>3</td>
       <td>3</td>
       <td>Brew Pub</td>
@@ -1723,20 +1739,20 @@
       <td>45</td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>8</td>
-      <td>Bourbon Bash</td>
-      <td>Lukas D Wayne</td>
-      <td>Rosario J</td>
+      <td>10</td>
+      <td>10</td>
+      <td>Caramel Chip</td>
+      <td>D'Angelo Jose F</td>
+      <td>Ortiz I Jr</td>
       <td>4</td>
-      <td>4</td>
-      <td>8</td>
       <td>5</td>
+      <td>6</td>
+      <td>8</td>
+      <td>1</td>
       <td>0</td>
-      <td>15</td>
-      <td>4</td>
-      <td>39</td>
-      <td>40</td>
+      <td>6</td>
+      <td>31</td>
+      <td>31</td>
     </tr>
     <tr>
       <td>4</td>
@@ -1771,20 +1787,20 @@
       <td>35</td>
     </tr>
     <tr>
-      <td>10</td>
-      <td>10</td>
-      <td>Caramel Chip</td>
-      <td>D'Angelo Jose F</td>
-      <td>Ortiz I Jr</td>
-      <td>4</td>
-      <td>5</td>
-      <td>6</td>
-      <td>8</td>
-      <td>1</td>
+      <td>9</td>
+      <td>9</td>
+      <td>Capture the Flag</td>
+      <td>McGaughey III Claude R</td>
+      <td>Saez L</td>
       <td>0</td>
-      <td>6</td>
-      <td>31</td>
-      <td>31</td>
+      <td>0</td>
+      <td>0</td>
+      <td>4</td>
+      <td>1</td>
+      <td>10</td>
+      <td>10</td>
+      <td>25</td>
+      <td>25</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1801,22 +1817,6 @@
       <td>10</td>
       <td>21</td>
       <td>31</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>9</td>
-      <td>Capture the Flag</td>
-      <td>McGaughey III Claude R</td>
-      <td>Saez L</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>4</td>
-      <td>1</td>
-      <td>10</td>
-      <td>10</td>
-      <td>25</td>
-      <td>25</td>
     </tr>
     <tr>
       <td>6</td>
@@ -1890,54 +1890,6 @@
       <td>44</td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>1</td>
-      <td>Shutters</td>
-      <td>Hennig Mark</td>
-      <td>Velazquez J R</td>
-      <td>4</td>
-      <td>5</td>
-      <td>5</td>
-      <td>5</td>
-      <td>2</td>
-      <td>5</td>
-      <td>8</td>
-      <td>34</td>
-      <td>44</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>3</td>
-      <td>Ruse</td>
-      <td>Hills Timothy A</td>
-      <td>Davis D</td>
-      <td>4</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>15</td>
-      <td>7</td>
-      <td>31</td>
-      <td>41</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>4</td>
-      <td>My Sea Cottage</td>
-      <td>Casse Mark</td>
-      <td>Ortiz J L</td>
-      <td>4</td>
-      <td>5</td>
-      <td>8</td>
-      <td>6</td>
-      <td>0</td>
-      <td>0</td>
-      <td>5</td>
-      <td>28</td>
-      <td>38</td>
-    </tr>
-    <tr>
       <td>9</td>
       <td>9</td>
       <td>Alfio</td>
@@ -1986,36 +1938,20 @@
       <td>35</td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>5</td>
-      <td>What Say Thee</td>
-      <td>Sisterson Jack</td>
-      <td>Gaffalione T</td>
+      <td>1</td>
+      <td>1</td>
+      <td>Shutters</td>
+      <td>Hennig Mark</td>
+      <td>Velazquez J R</td>
       <td>4</td>
       <td>5</td>
-      <td>0</td>
-      <td>9</td>
-      <td>0</td>
+      <td>5</td>
       <td>5</td>
       <td>2</td>
-      <td>25</td>
-      <td>34</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>6</td>
-      <td>Fair Dinkum</td>
-      <td>Sharp Joe</td>
-      <td>Rosario J</td>
-      <td>0</td>
-      <td>0</td>
-      <td>7</td>
       <td>5</td>
-      <td>0</td>
-      <td>10</td>
-      <td>3</td>
-      <td>26</td>
-      <td>33</td>
+      <td>8</td>
+      <td>34</td>
+      <td>44</td>
     </tr>
     <tr>
       <td>14</td>
@@ -2034,36 +1970,52 @@
       <td>33</td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>2</td>
-      <td>Danzigwiththestars</td>
-      <td>Schettino Dominick A</td>
-      <td>Saez L</td>
+      <td>3</td>
+      <td>3</td>
+      <td>Ruse</td>
+      <td>Hills Timothy A</td>
+      <td>Davis D</td>
       <td>4</td>
       <td>5</td>
-      <td>3</td>
-      <td>4</td>
       <td>0</td>
       <td>0</td>
-      <td>2</td>
-      <td>18</td>
-      <td>28</td>
+      <td>0</td>
+      <td>15</td>
+      <td>7</td>
+      <td>31</td>
+      <td>41</td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>7</td>
-      <td>Drakon</td>
-      <td>Diodoro Robertino</td>
-      <td>Carmouche K</td>
+      <td>4</td>
+      <td>4</td>
+      <td>My Sea Cottage</td>
+      <td>Casse Mark</td>
+      <td>Ortiz J L</td>
       <td>4</td>
       <td>5</td>
-      <td>2</td>
+      <td>8</td>
+      <td>6</td>
+      <td>0</td>
+      <td>0</td>
       <td>5</td>
+      <td>28</td>
+      <td>38</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>6</td>
+      <td>Fair Dinkum</td>
+      <td>Sharp Joe</td>
+      <td>Rosario J</td>
       <td>0</td>
       <td>0</td>
       <td>7</td>
-      <td>23</td>
+      <td>5</td>
+      <td>0</td>
+      <td>10</td>
+      <td>3</td>
       <td>26</td>
+      <td>33</td>
     </tr>
     <tr>
       <td>15</td>
@@ -2082,20 +2034,20 @@
       <td>25</td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>8</td>
-      <td>Hilliard</td>
-      <td>Maker Michael J</td>
-      <td>Castellano J J</td>
-      <td>3</td>
-      <td>4</td>
-      <td>6</td>
-      <td>0</td>
-      <td>2</td>
       <td>5</td>
-      <td>3</td>
-      <td>24</td>
-      <td>24</td>
+      <td>5</td>
+      <td>What Say Thee</td>
+      <td>Sisterson Jack</td>
+      <td>Gaffalione T</td>
+      <td>4</td>
+      <td>5</td>
+      <td>0</td>
+      <td>9</td>
+      <td>0</td>
+      <td>5</td>
+      <td>2</td>
+      <td>25</td>
+      <td>34</td>
     </tr>
     <tr>
       <td>12</td>
@@ -2112,6 +2064,54 @@
       <td>3</td>
       <td>24</td>
       <td>24</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>8</td>
+      <td>Hilliard</td>
+      <td>Maker Michael J</td>
+      <td>Castellano J J</td>
+      <td>3</td>
+      <td>4</td>
+      <td>6</td>
+      <td>0</td>
+      <td>2</td>
+      <td>5</td>
+      <td>3</td>
+      <td>24</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>7</td>
+      <td>Drakon</td>
+      <td>Diodoro Robertino</td>
+      <td>Carmouche K</td>
+      <td>4</td>
+      <td>5</td>
+      <td>2</td>
+      <td>5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>7</td>
+      <td>23</td>
+      <td>26</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2</td>
+      <td>Danzigwiththestars</td>
+      <td>Schettino Dominick A</td>
+      <td>Saez L</td>
+      <td>4</td>
+      <td>5</td>
+      <td>3</td>
+      <td>4</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>18</td>
+      <td>28</td>
     </tr>
   </tbody>
 </table>
