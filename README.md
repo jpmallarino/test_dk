@@ -16,8 +16,8 @@
       <th>C</th>
       <th>ITM</th>
       <th>FinalScore</th>
-      <th>POST</th>
-      <th>FinalScore + POST</th>
+      <th>P</th>
+      <th>FinalScore+P</th>
     </tr>
   </thead>
   <tbody>
@@ -193,8 +193,8 @@
       <th>C</th>
       <th>ITM</th>
       <th>FinalScore</th>
-      <th>POST</th>
-      <th>FinalScore + POST</th>
+      <th>P</th>
+      <th>FinalScore+P</th>
     </tr>
   </thead>
   <tbody>
@@ -404,8 +404,8 @@
       <th>C</th>
       <th>ITM</th>
       <th>FinalScore</th>
-      <th>POST</th>
-      <th>FinalScore + POST</th>
+      <th>P</th>
+      <th>FinalScore+P</th>
     </tr>
   </thead>
   <tbody>
@@ -564,8 +564,8 @@
       <th>C</th>
       <th>ITM</th>
       <th>FinalScore</th>
-      <th>POST</th>
-      <th>FinalScore + POST</th>
+      <th>P</th>
+      <th>FinalScore+P</th>
     </tr>
   </thead>
   <tbody>
@@ -775,8 +775,8 @@
       <th>C</th>
       <th>ITM</th>
       <th>FinalScore</th>
-      <th>POST</th>
-      <th>FinalScore + POST</th>
+      <th>P</th>
+      <th>FinalScore+P</th>
     </tr>
   </thead>
   <tbody>
@@ -969,8 +969,8 @@
       <th>C</th>
       <th>ITM</th>
       <th>FinalScore</th>
-      <th>POST</th>
-      <th>FinalScore + POST</th>
+      <th>P</th>
+      <th>FinalScore+P</th>
     </tr>
   </thead>
   <tbody>
@@ -1129,8 +1129,8 @@
       <th>C</th>
       <th>ITM</th>
       <th>FinalScore</th>
-      <th>POST</th>
-      <th>FinalScore + POST</th>
+      <th>P</th>
+      <th>FinalScore+P</th>
     </tr>
   </thead>
   <tbody>
@@ -1306,8 +1306,8 @@
       <th>C</th>
       <th>ITM</th>
       <th>FinalScore</th>
-      <th>POST</th>
-      <th>FinalScore + POST</th>
+      <th>P</th>
+      <th>FinalScore+P</th>
     </tr>
   </thead>
   <tbody>
@@ -1466,8 +1466,8 @@
       <th>C</th>
       <th>ITM</th>
       <th>FinalScore</th>
-      <th>POST</th>
-      <th>FinalScore + POST</th>
+      <th>P</th>
+      <th>FinalScore+P</th>
     </tr>
   </thead>
   <tbody>
@@ -1643,8 +1643,8 @@
       <th>C</th>
       <th>ITM</th>
       <th>FinalScore</th>
-      <th>POST</th>
-      <th>FinalScore + POST</th>
+      <th>P</th>
+      <th>FinalScore+P</th>
     </tr>
   </thead>
   <tbody>
@@ -1769,8 +1769,8 @@
       <th>C</th>
       <th>ITM</th>
       <th>FinalScore</th>
-      <th>POST</th>
-      <th>FinalScore + POST</th>
+      <th>P</th>
+      <th>FinalScore+P</th>
     </tr>
   </thead>
   <tbody>
@@ -1963,8 +1963,8 @@
       <th>C</th>
       <th>ITM</th>
       <th>FinalScore</th>
-      <th>POST</th>
-      <th>FinalScore + POST</th>
+      <th>P</th>
+      <th>FinalScore+P</th>
     </tr>
   </thead>
   <tbody>
